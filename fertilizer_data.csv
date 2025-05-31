@@ -1,0 +1,1001 @@
+Plant,pH,TDS,Turbidity,Fertilizer,Dosage,Supplements,pH_Adjustment
+Lettuce,5.652164095237978,858.0902242637148,1.5197961420628376,General Hydroponics Flora Series,1.3010515284806525,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.114177700609055,620.0196627614212,1.8471361657614962,General Hydroponics Flora Series,1.1534270246429743,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.967531259149803,554.5442010954405,0.7782808244489846,General Hydroponics Flora Series,1.1257593162880828,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.879867484231277,545.2247769594244,1.4614753778809906,General Hydroponics Flora Series,1.2110922589709865,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.987494081880256,702.4907367371055,0.18830998622299544,General Hydroponics Flora Series,1.1364440259725361,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.104661476160239,500.0,1.0321265392234915,General Hydroponics Flora Series,1.0040329876120224,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.090437942554052,699.9353514420086,1.7373521869560955,General Hydroponics Flora Series,1.0416705786463112,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.840072689687588,615.7424870262669,0.7783234472661376,General Hydroponics Flora Series,1.1614917719583684,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.690975202622379,925.1031882074806,1.723356004615067,General Hydroponics Flora Series,1.2754997797244736,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.640297338014803,757.9249167046322,0.13590327148120143,General Hydroponics Flora Series,1.1814341023336183,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.977941405561748,680.7074686003862,1.2516463813730316,General Hydroponics Flora Series,1.1924196254971815,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.206079579401004,929.4841791941319,0.5986053743210435,General Hydroponics Flora Series,1.2821902504375224,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.241669035025815,694.4587612920673,0.24356486949863698,General Hydroponics Flora Series,1.2019000331062148,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Lettuce,5.587593508570237,624.7315140915226,1.6941827006265122,General Hydroponics Flora Series,1.2328751109659684,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.578044503609069,629.7949458835733,1.7232602876910401,General Hydroponics Flora Series,1.2673125502773974,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Lettuce,5.6692759799405925,649.9273727297325,0.8552382685810048,General Hydroponics Flora Series,1.1765412866624851,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.007998268455481,605.5840960966979,0.2827185006863166,General Hydroponics Flora Series,0.9977685066804264,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.819264715835369,659.1649011212806,1.9556102074301267,General Hydroponics Flora Series,1.4463242112485286,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.43653690972731,595.8711879522629,1.884495964770636,General Hydroponics Flora Series,1.1992619850055426,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Lettuce,5.900261660920109,657.2592077941721,1.803798092844655,General Hydroponics Flora Series,1.0598148937207719,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.0348432143202295,802.3331723751277,0.521900530844509,General Hydroponics Flora Series,1.2873589415635378,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.3041270861826355,750.7452993873169,0.26910670354911526,General Hydroponics Flora Series,1.354993440501754,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Lettuce,6.365380983583096,654.1180442142747,0.8909048242842486,General Hydroponics Flora Series,1.2526448161334696,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.107177370449147,786.4844491174129,0.23631443962528698,General Hydroponics Flora Series,1.0679543386915724,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.3494838479724685,932.8979524847326,1.8194305024300095,General Hydroponics Flora Series,1.2847401432576637,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.882351953845581,635.7953240936678,1.0887428387755818,General Hydroponics Flora Series,1.265655360863383,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.3661746933336945,753.2686967394942,0.7356966451298256,General Hydroponics Flora Series,1.294053558496201,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.890405717410367,504.6479064953221,0.7200112642360462,General Hydroponics Flora Series,1.2341151974816642,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.938930986989462,746.0953582944283,1.3083415536469871,General Hydroponics Flora Series,1.1965470343905191,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Lettuce,6.0082736156492835,686.8635030077581,0.00393937579773751,General Hydroponics Flora Series,1.271400049409209,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.424964170059933,897.6341770149239,1.0654825303038922,General Hydroponics Flora Series,1.1657858287394618,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Lettuce,5.851558190326514,645.9897070449896,0.9368310376764737,General Hydroponics Flora Series,1.2153725105945528,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.326491928471645,842.3511639771573,0.4546574620051387,General Hydroponics Flora Series,1.3066198544097738,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.305491137428841,712.0361174327523,0.6901932257901963,General Hydroponics Flora Series,1.5852731490654721,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.344754410602056,759.6079928230064,1.1734206801834037,General Hydroponics Flora Series,1.0499231606792825,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.056913653175571,535.1919202197539,0.2091365856683869,General Hydroponics Flora Series,1.0387284128810348,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.351876195213205,536.9757681103066,1.9572771495458923,General Hydroponics Flora Series,1.2128551000071082,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Lettuce,5.724935395477606,669.2492984687384,0.5994837478526012,General Hydroponics Flora Series,1.263391902231801,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.435695282521651,770.381607501939,0.9437009477585541,General Hydroponics Flora Series,1.033086764090947,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.679453837138357,653.6737275733403,1.6852375479446948,General Hydroponics Flora Series,1.166549876415905,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.845513380688599,756.7086970233742,1.1739125825043228,General Hydroponics Flora Series,1.365135098647949,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.365102976071677,606.7210709179031,0.5842258646315606,General Hydroponics Flora Series,1.2774634053429337,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.715185334191354,576.881714507639,0.5842394359221348,General Hydroponics Flora Series,1.069980715840656,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.404104755865439,594.2400071249963,0.323240769975081,General Hydroponics Flora Series,1.2010233061019586,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.118202126452635,611.7113002945164,0.27057003415826847,General Hydroponics Flora Series,1.2126094827824028,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.502080852807133,500.0,1.2562194178775896,General Hydroponics Flora Series,1.2588317206484576,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Lettuce,6.3639040106134415,834.2580058762697,0.568580363015926,General Hydroponics Flora Series,1.1535470251355031,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.594675032928835,718.7602155988366,0.74362952463345,General Hydroponics Flora Series,1.230729952087661,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.3454184458969,713.9618647150091,0.20653482275625656,General Hydroponics Flora Series,1.0779429895718144,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.232876720096552,765.3026764695641,2.0265979210047353,General Hydroponics Flora Series,1.2813509636000637,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.498486250118511,907.6291126483785,0.9626597853217632,General Hydroponics Flora Series,1.2853974711067855,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Lettuce,5.575670921977987,800.4926479606253,0.20197254657081076,General Hydroponics Flora Series,1.2595157025436914,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.372821796525514,565.8986992325773,0.7405572093007513,General Hydroponics Flora Series,1.2667056103469791,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.3047790544333,517.8215377024221,1.183864556088713,General Hydroponics Flora Series,1.1852942618497861,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.973683280847164,728.5668434097286,0.19932268272515968,General Hydroponics Flora Series,1.2203822727527467,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.032243190990892,617.0014461661634,0.019008717033312333,General Hydroponics Flora Series,1.1786552848288152,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.216682067512176,715.8969070269958,0.7119754982699218,General Hydroponics Flora Series,1.1951804514464186,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.722687219116306,746.1812403978472,1.2766685745407556,General Hydroponics Flora Series,1.240171172209894,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.7996426191856365,901.5581865288954,0.5419171545844181,General Hydroponics Flora Series,1.205435057793857,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.45373433567246,659.4968623890685,1.56596150531337,General Hydroponics Flora Series,1.2183342005738351,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.523259993215556,736.3006057339348,1.6102530763386453,General Hydroponics Flora Series,1.2784006410914168,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.536294627413022,704.8749320308158,0.7750556512075375,General Hydroponics Flora Series,1.3876170839215887,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.9579202195922205,935.5284680609086,1.5095109357802423,General Hydroponics Flora Series,1.1867700556057537,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.601951913644665,525.7436624192626,0.0,General Hydroponics Flora Series,1.3353872374165412,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Lettuce,5.979461477551457,705.6639166115316,1.6549316766045046,General Hydroponics Flora Series,1.1944515041702326,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.36577111619869,792.310341932896,1.9094222522764124,General Hydroponics Flora Series,1.2622849932347497,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.676826112201722,649.7138172399391,2.120191417339538,General Hydroponics Flora Series,1.3541370996918183,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.168393113137345,603.3635892451821,1.5790058279983645,General Hydroponics Flora Series,1.2067518481410109,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.847830189322054,690.1531882370132,2.051116240093586,General Hydroponics Flora Series,1.2877825168480113,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.9246490588788285,500.0,0.0,General Hydroponics Flora Series,0.9960767822239899,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.306815795285199,790.9560948529377,1.2242884536656378,General Hydroponics Flora Series,1.2330700557063932,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.108844135786612,595.6258047704688,1.9299883401108502,General Hydroponics Flora Series,1.1967305251905906,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.968035832682578,644.52008540499,1.0465513276640293,General Hydroponics Flora Series,1.2487673274923294,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.648522074056754,861.5054063254678,0.8418717568512566,General Hydroponics Flora Series,1.1207127167737656,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.390192710430242,565.6834270606463,0.252766542806061,General Hydroponics Flora Series,0.9717197509959201,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Lettuce,6.050449727030848,592.40539022893,1.5763551878799194,General Hydroponics Flora Series,1.1779030400466777,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.196745312525557,646.7073113950619,0.8438703873928739,General Hydroponics Flora Series,1.1689275735382805,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.984225032180926,720.634735971635,2.1107180379585606,General Hydroponics Flora Series,1.3119574911434577,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.445070841943932,594.8212743318602,1.0278535083979645,General Hydroponics Flora Series,1.1952209122626463,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Lettuce,6.159507492597691,707.3694176539776,0.6534001760925058,General Hydroponics Flora Series,1.3479944138890025,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.498819376312718,868.5936500055714,1.0960683980822754,General Hydroponics Flora Series,1.1331598031696732,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Lettuce,5.583368781634807,797.1537512419054,1.0114280955134582,General Hydroponics Flora Series,1.1512874616235302,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.186015119718863,708.290867389794,0.4247978443861381,General Hydroponics Flora Series,1.1915091167504168,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Lettuce,6.465690563418857,691.0246553859432,0.5356721151757249,General Hydroponics Flora Series,1.275138712337179,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.958701288815985,538.1894738620061,1.5949373363412156,General Hydroponics Flora Series,0.9259045155540298,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.870128224170555,500.0,1.208024125153802,General Hydroponics Flora Series,1.0788983800237544,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.912195696772309,650.5356997738156,0.8944743773535297,General Hydroponics Flora Series,1.2771638149301336,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.2110531660439525,671.7367941897451,0.8979110029687989,General Hydroponics Flora Series,1.1396014813284179,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.535949272696788,768.758668033905,0.10902235086043512,General Hydroponics Flora Series,1.211372946021298,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Lettuce,6.37415774033555,574.3572015313422,0.3852668571106916,General Hydroponics Flora Series,1.4075400798645439,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.8088059639086005,935.7213947439002,0.6496076107484631,General Hydroponics Flora Series,0.9769670092374111,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.866763348916975,747.420573568464,1.171321896421656,General Hydroponics Flora Series,0.9788864690992114,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.439510986988663,791.680306302882,0.05883473866778774,General Hydroponics Flora Series,1.1599627126832446,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.330398440281995,758.4424302900175,0.9750500040445942,General Hydroponics Flora Series,1.1150155630535208,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.05044340230639,808.5084099250417,0.0,General Hydroponics Flora Series,1.2829138684585268,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.267282317613339,500.0,1.604045931453814,General Hydroponics Flora Series,1.2377300493044852,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.006432059490861,863.0910141349422,1.113629457206445,General Hydroponics Flora Series,1.22809643209182,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.489951943723064,760.4517918533174,1.9477742539380682,General Hydroponics Flora Series,1.1944415329089544,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Lettuce,5.612782159182049,728.835896459729,1.3682100814761478,General Hydroponics Flora Series,1.2590274619061788,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.7989042804723026,892.5688222232493,0.6237154111564022,General Hydroponics Flora Series,1.1488784323568815,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Lettuce,6.942105235116512,871.5544503246768,0.7840613775453537,General Hydroponics Flora Series,1.1866599142108456,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Lettuce,5.632776366593867,619.3132984208662,0.17389816280158865,General Hydroponics Flora Series,1.2073317967188404,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.545792990839841,631.0733800417619,1.2499186946701188,General Hydroponics Flora Series,1.185096333327047,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.630200080464488,769.1636128483962,1.207642117998165,General Hydroponics Flora Series,1.3126565029547757,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.353272342423281,729.3368983597094,0.3562117572509378,General Hydroponics Flora Series,1.2158255980953367,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Lettuce,6.135001969473614,564.3453724763654,1.3851885394223082,General Hydroponics Flora Series,1.1453141058759608,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.814266121656153,500.0,0.7140069355414442,General Hydroponics Flora Series,1.0759359922312428,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.778137992364654,525.6856001015119,0.1417410918973765,General Hydroponics Flora Series,1.3752270443423622,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.507542120541611,606.721090715249,1.2910504370028892,General Hydroponics Flora Series,1.1271684850052113,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.066988690342773,614.4564066940137,0.0,General Hydroponics Flora Series,1.2712998430172389,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.646371793790363,653.3637642336357,1.773813312247313,General Hydroponics Flora Series,1.0992910635693738,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.770210899864245,516.9700068345534,1.9774770408836198,General Hydroponics Flora Series,1.1815097863557011,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.580596863394873,500.0,0.6701171807200612,General Hydroponics Flora Series,1.0586975654658222,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Lettuce,5.951615145631764,704.9018994515152,0.7632692409088435,General Hydroponics Flora Series,1.239913611435207,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.301324961320598,831.0851562563356,2.2201523614747973,General Hydroponics Flora Series,1.2672257284413773,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.761574472046281,633.7778712765578,1.5619085375367259,General Hydroponics Flora Series,1.1221695274597687,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.192472079352202,871.1900313678898,0.636616974908273,General Hydroponics Flora Series,1.271759157979305,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Lettuce,6.380947750569977,716.0670544875203,0.35508654620947633,General Hydroponics Flora Series,1.301437006501813,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.752094069386804,579.063203910544,0.7679384325247784,General Hydroponics Flora Series,1.2198558362896292,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.918505460244208,500.0,0.5834165774884865,General Hydroponics Flora Series,1.305364179660784,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.08546880168644,711.1977922706445,1.448855703591568,General Hydroponics Flora Series,1.0480820017013823,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,5.781280478741386,628.6649067037574,1.186687999734386,General Hydroponics Flora Series,1.377080063563551,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.288349920450158,735.011165746104,0.27524787942586126,General Hydroponics Flora Series,1.292948250734477,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.075343981049078,723.1399008982753,0.21870434683991907,General Hydroponics Flora Series,1.0664655641289897,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Lettuce,6.630199558557329,871.2439532860483,1.522373434015611,General Hydroponics Flora Series,1.2632941633793464,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Tomato,6.075348607469657,1885.3085965374758,2.0296517834323686,Advanced Nutrients pH Perfect,1.672325142417969,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.504816243891459,1449.9593174335985,1.6206544220007084,Advanced Nutrients pH Perfect,1.7919584226291008,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Tomato,6.363773553923267,2023.8834649403327,1.5709317028148915,Advanced Nutrients pH Perfect,1.769082787653136,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.5247477509798495,2875.7049014260624,0.7622640068649568,Advanced Nutrients pH Perfect,1.6070315403685842,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.344133218012815,2158.3433357196905,1.268239550729103,Advanced Nutrients pH Perfect,1.9065480375065351,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.683701888631187,3009.1016161116854,1.89389670556668,Advanced Nutrients pH Perfect,1.5515388420914187,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Tomato,6.038404958938215,3380.0603875030815,2.284081367544733,Advanced Nutrients pH Perfect,1.7477139972846731,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.537553967151603,1526.9044417931102,0.322508655060041,Advanced Nutrients pH Perfect,1.6792604168353626,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.376511762388387,1836.9342800940838,1.890029625969964,Advanced Nutrients pH Perfect,1.8674819492166603,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.346831972087434,1912.8821425721296,1.6683451847424844,Advanced Nutrients pH Perfect,1.8073962964073569,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.549050606544205,1981.9226921581235,0.65697737388648,Advanced Nutrients pH Perfect,1.7429253706250525,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.054978470787836,1652.8193970210511,2.1031415229877775,Advanced Nutrients pH Perfect,1.8937838301566645,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.957528469740934,1553.352202541687,1.8120948034057418,Advanced Nutrients pH Perfect,1.8334456789987026,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.8055325836475165,2431.066448236308,0.3507936871346562,Advanced Nutrients pH Perfect,1.7049316208594674,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.892353475271537,1592.5758485699505,0.4370818246850723,Advanced Nutrients pH Perfect,1.9188393273448083,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.24536153808409,2530.874733571717,1.3214826783174871,Advanced Nutrients pH Perfect,1.8462548552647542,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.54272642259463,3125.322048485279,1.5302386072346819,Advanced Nutrients pH Perfect,1.9169295590445674,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Tomato,6.044546704495724,2897.34904434312,0.17930214637007416,Advanced Nutrients pH Perfect,1.8494955517561527,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.356186837723042,3152.125428526873,0.7429642393256886,Advanced Nutrients pH Perfect,1.874625356602722,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.187321812438599,2493.831321670074,1.667295261261656,Advanced Nutrients pH Perfect,1.8047954050283106,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.752585443128581,2747.9149748711216,2.078782560991989,Advanced Nutrients pH Perfect,1.697348470058894,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.4713242279296015,2635.338236106852,0.765186567263527,Advanced Nutrients pH Perfect,1.7474194612687044,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Tomato,5.83769172230567,1439.8844321035954,0.5361805329604428,Advanced Nutrients pH Perfect,1.988115706944059,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.5276527906335025,3476.187418182453,0.9820898714161381,Advanced Nutrients pH Perfect,1.8987308899256625,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.464708733054582,1660.2459286212843,1.4910388397411585,Advanced Nutrients pH Perfect,1.7900824136220617,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Tomato,6.099305024678191,2720.2477732514467,0.6530144098433404,Advanced Nutrients pH Perfect,1.7330878918887358,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.514703847205998,2880.229916448171,0.8055977567230631,Advanced Nutrients pH Perfect,1.8456753219153785,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.082048089135442,3206.369355336362,1.7718883353835044,Advanced Nutrients pH Perfect,1.8491404567019498,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.846243891100696,1826.4412401121099,0.2423399942762322,Advanced Nutrients pH Perfect,1.6569224897881951,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.4372879300164625,2721.715167688373,0.4826070409109197,Advanced Nutrients pH Perfect,1.7974610953615513,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Tomato,5.255666323097414,2300.277934068468,1.1170377011644135,Advanced Nutrients pH Perfect,1.8425457561784966,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Tomato,6.227186608370557,1442.870583034238,1.4414191508827492,Advanced Nutrients pH Perfect,1.7977396910555181,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.2441415321336144,2371.0887484800905,0.0,Advanced Nutrients pH Perfect,1.7318015752002203,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.572285165790693,1458.7515662839335,0.9916230998649957,Advanced Nutrients pH Perfect,1.8623309806654604,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.9800213315620105,1844.1767910353233,0.22106175465283534,Advanced Nutrients pH Perfect,1.7353063222294427,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.093167864636902,3337.9361580452573,1.4510805375079483,Advanced Nutrients pH Perfect,1.8950145470998832,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.664490530595543,2369.659475834695,1.1568717896701604,Advanced Nutrients pH Perfect,1.751611416594568,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Tomato,6.16546831721817,1807.4195496972711,2.0754678212078437,Advanced Nutrients pH Perfect,1.91293244375395,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.005796412086779,2578.266589640852,1.561107151090611,Advanced Nutrients pH Perfect,1.6977207434801596,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.790407629412109,1453.296911724123,0.7019415938881517,Advanced Nutrients pH Perfect,1.8873158548619149,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.97038369816007,2231.1733146098372,1.078863064260779,Advanced Nutrients pH Perfect,1.754111573713106,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.660078485316306,3176.9119575166346,1.9615033763757115,Advanced Nutrients pH Perfect,1.8179274604426685,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.58554964870376,2747.810178827055,1.361926477441589,Advanced Nutrients pH Perfect,1.8260673765823907,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.744443134391431,1869.691984440794,1.6126919460757267,Advanced Nutrients pH Perfect,1.7949577148278513,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.600503041346933,2161.1696576277877,0.957146519578754,Advanced Nutrients pH Perfect,1.6880330105373857,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Tomato,6.690956412391627,1871.2723220529538,1.0022935989846053,Advanced Nutrients pH Perfect,1.7727604029500192,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Tomato,5.77275011121944,1707.1159423677043,0.7282315173800851,Advanced Nutrients pH Perfect,1.7571884839034089,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.286560788601037,3006.4822469481246,0.5769856728629693,Advanced Nutrients pH Perfect,1.7910477389752095,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.253861723785913,2609.609180324682,1.7222223091437046,Advanced Nutrients pH Perfect,1.7962777763490159,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.004986333447082,3263.376467366206,0.040688203900543375,Advanced Nutrients pH Perfect,1.8448390293615862,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.190500343628888,1521.9518515956227,0.49628842389610817,Advanced Nutrients pH Perfect,1.5103744621806312,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.801152998215751,2864.8417567977494,0.33461634003161134,Advanced Nutrients pH Perfect,1.7349286462654911,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.117763765442322,3272.6669229900217,0.38438335992348704,Advanced Nutrients pH Perfect,1.8364961002466225,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.907390598486468,2704.2290580100503,1.7773231669919127,Advanced Nutrients pH Perfect,1.8449228434919747,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.503199692237466,1738.2832807333373,1.378298033513121,Advanced Nutrients pH Perfect,1.7245724149980641,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Tomato,6.70044224042627,1476.0072772607227,2.0224683722626065,Advanced Nutrients pH Perfect,1.9435181549190053,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Tomato,6.476343307036255,3122.1218972191314,0.9277606572720376,Advanced Nutrients pH Perfect,1.8701172742310899,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.321913640616494,2211.857527794251,1.380063915662768,Advanced Nutrients pH Perfect,1.6356259284411943,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.067674857151962,2083.6630333269763,1.2257902772723352,Advanced Nutrients pH Perfect,1.9009817089342635,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.131318770464099,2485.94919458274,0.6687227053278071,Advanced Nutrients pH Perfect,1.7980064604754191,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.045761914028084,2442.386040084227,1.0745001254959046,Advanced Nutrients pH Perfect,1.856390912005236,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.262448601115901,2947.2669130457252,1.8732680543529743,Advanced Nutrients pH Perfect,1.855307327644048,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.403702607019033,2309.9717625697067,0.5495319656717116,Advanced Nutrients pH Perfect,1.93920022863446,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Tomato,5.690642986111661,2523.0197733934197,1.405447727774885,Advanced Nutrients pH Perfect,1.784077612190329,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.06084432517474,1812.9987235750702,0.7317280206277865,Advanced Nutrients pH Perfect,1.84404747379604,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.347134224198745,2421.8146974770034,1.706377366199638,Advanced Nutrients pH Perfect,1.8139215408644904,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.961213482584981,3054.006513041165,1.4878918723368768,Advanced Nutrients pH Perfect,1.974957674318694,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.489294347718636,3219.965391249215,0.8674230822345734,Advanced Nutrients pH Perfect,1.7439551848510477,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.756668842996811,3016.3697012894268,0.0,Advanced Nutrients pH Perfect,1.8309820710227027,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.48179063246941,3374.2135190706845,0.12609000817628718,Advanced Nutrients pH Perfect,1.8267751224364464,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.730171082311569,2812.31198443537,1.3290738805336269,Advanced Nutrients pH Perfect,1.7446411758292006,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.2529732211235665,3428.2227518057857,0.0,Advanced Nutrients pH Perfect,1.8563345462505025,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.463083186199258,1478.4066510832176,1.6585262403150351,Advanced Nutrients pH Perfect,1.6776059733237745,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Tomato,5.4450601826448155,2560.16286739129,0.3414377099820405,Advanced Nutrients pH Perfect,1.8108542676028438,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Tomato,6.396411167541853,2398.2472498886837,0.9831819835982919,Advanced Nutrients pH Perfect,1.8419019009366047,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.767067134556178,1589.2402779503277,0.9416018181992802,Advanced Nutrients pH Perfect,1.808127684276703,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.168632960377039,3048.8568027707347,0.4766804955434484,Advanced Nutrients pH Perfect,1.7683591550305198,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.507520919679613,3469.4070386380354,0.9300784124352931,Advanced Nutrients pH Perfect,1.8225342753689069,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Tomato,6.396892155834527,1763.8685473134515,1.4949373684034668,Advanced Nutrients pH Perfect,1.6668767046442223,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.418023006895993,3207.509498595057,1.5387531140661106,Advanced Nutrients pH Perfect,1.686854697934757,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Tomato,6.03204529940601,3320.8341784311624,1.1777422624092142,Advanced Nutrients pH Perfect,1.770972545581135,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.266632078096133,3068.807866538105,1.3424783108857097,Advanced Nutrients pH Perfect,1.764698394327444,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.412130202068777,2174.279249017345,1.946215009970801,Advanced Nutrients pH Perfect,1.8817766299200287,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.60110921103048,3012.496260587384,0.2753346738622449,Advanced Nutrients pH Perfect,1.7007686733963907,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.579502294364915,1507.1742800295958,0.25623282269782727,Advanced Nutrients pH Perfect,1.8486501643826203,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.868476016773291,2383.5697225811455,0.9870459196024456,Advanced Nutrients pH Perfect,1.6717501378878479,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.107512518212111,1868.3248052551562,0.15243274566175866,Advanced Nutrients pH Perfect,1.766291402888196,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.4102340820724155,1831.6025431316261,0.34498868024641716,Advanced Nutrients pH Perfect,1.737207151324605,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.649679432079332,2588.8510965931923,2.1833045347942184,Advanced Nutrients pH Perfect,1.6515102031550097,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.001339967740491,2393.7120499979933,0.15999917465387725,Advanced Nutrients pH Perfect,1.6828958145824147,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.798827672383584,2878.725351475945,1.3579798714723075,Advanced Nutrients pH Perfect,1.8391804005402548,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.836488884844154,1848.8300315206363,0.0,Advanced Nutrients pH Perfect,2.006055861661605,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.255700632501314,1517.4931482442237,0.9418930620588718,Advanced Nutrients pH Perfect,1.9711708480142345,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.932866263660209,2249.109571220369,1.1473588277196436,Advanced Nutrients pH Perfect,1.6879177634479614,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.369064766708493,1874.2368139963737,1.8301622332537066,Advanced Nutrients pH Perfect,1.8299292580406492,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.898411654309646,2695.529067684817,0.15103342060098243,Advanced Nutrients pH Perfect,1.972212860568497,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.107163468945932,1505.9811218514978,0.0,Advanced Nutrients pH Perfect,1.702838596148935,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.759421298225722,2983.167066715494,1.3792499273621874,Advanced Nutrients pH Perfect,1.7292147323256817,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.463582199382899,1880.9179906255624,0.0,Advanced Nutrients pH Perfect,1.9501333651955488,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.834024749626485,1777.3741868573866,1.1133543416322635,Advanced Nutrients pH Perfect,1.8038591940227033,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.479891402573801,3104.1590303609323,0.8913377586844358,Advanced Nutrients pH Perfect,1.8507835756289623,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.423133956245136,2757.568059540051,0.1372362418212676,Advanced Nutrients pH Perfect,1.6718702326523145,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.887826158227042,2295.0691483694573,1.2873605045508711,Advanced Nutrients pH Perfect,1.8815737212539296,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.953419329910835,3032.1240362281287,1.9654862802720405,Advanced Nutrients pH Perfect,1.7859957148057763,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.264694988902354,2900.856442853837,1.3922612657126714,Advanced Nutrients pH Perfect,1.734864310620817,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.416674012673669,1920.7352311701889,1.471787402993052,Advanced Nutrients pH Perfect,1.9075433063105038,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.159028871137187,2062.967586257801,1.3879945365345814,Advanced Nutrients pH Perfect,1.8673181351269958,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.825762538093594,2276.5993860323406,0.27625973441457424,Advanced Nutrients pH Perfect,1.7577188038914457,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.464859022221862,2610.1386603568153,1.70546888938848,Advanced Nutrients pH Perfect,1.7390217095680618,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Tomato,5.764255201035835,1300.3513703172825,1.4311436083938847,Advanced Nutrients pH Perfect,1.7179656175469304,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.722043532074881,3452.338490455759,0.7815560061640738,Advanced Nutrients pH Perfect,1.893259083187309,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Tomato,6.12483541637323,2209.2060852830155,1.427459595035826,Advanced Nutrients pH Perfect,1.716423786497909,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.289394880399699,2949.49289321689,0.5420079042932162,Advanced Nutrients pH Perfect,1.9208366230593144,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.175059377441415,3221.71776150388,0.7628218509295009,Advanced Nutrients pH Perfect,1.7350734421924077,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.979343111914215,3036.7254798840813,0.8911736487626577,Advanced Nutrients pH Perfect,1.613346338292694,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.62656999692211,1920.9609073128508,1.5688117448614038,Advanced Nutrients pH Perfect,1.692330983077487,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.211210262866022,1757.380862909532,1.1967270405794983,Advanced Nutrients pH Perfect,1.954324352827219,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.578920880284452,2237.8383266613882,0.2898296092224064,Advanced Nutrients pH Perfect,1.8170298362162394,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,6.543399266429284,1891.2531096519338,0.6253302583358126,Advanced Nutrients pH Perfect,1.5127737786718352,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Tomato,5.059223439824452,1553.1726880850426,1.6359140113300237,Advanced Nutrients pH Perfect,1.8778109186126017,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Tomato,5.8121242233462915,2804.1661362914774,0.2506773492593805,Advanced Nutrients pH Perfect,1.7796326249823036,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.59364939760448,1826.3724590785164,1.7517429914448301,Advanced Nutrients pH Perfect,1.956810479471821,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.7918625049005925,1625.6734705213141,1.1225111667652552,Advanced Nutrients pH Perfect,1.7718672442881787,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.662304710605702,2803.6333304646487,1.9048790101332602,Advanced Nutrients pH Perfect,1.7395987725074873,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Tomato,5.919010726886416,2809.2950841426077,2.021305767427819,Advanced Nutrients pH Perfect,1.6643418195376596,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Cucumber,5.570282278439491,1702.796500169506,1.1317031220164624,General Hydroponics MaxiGro,1.4458165012331359,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.42231896687447,1672.5129773758342,1.2082088766311645,General Hydroponics MaxiGro,1.5693105607263145,"Cal-Mag Plus, Diamond Nectar",General Hydroponics pH Up
+Cucumber,5.517304623942363,1503.485962482834,0.8338083335601513,General Hydroponics MaxiGro,1.4942016052567766,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.500262586391774,1565.013137558177,1.4618755268592563,General Hydroponics MaxiGro,1.7057495469711699,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.401688425343334,1471.1133023211132,1.4871102616864695,General Hydroponics MaxiGro,1.5602477209439483,"Cal-Mag Plus, Diamond Nectar",General Hydroponics pH Up
+Cucumber,5.653844480642978,1444.7034037690419,0.7250459843662009,General Hydroponics MaxiGro,1.4747646497873712,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.003285314421983,1674.3320685614276,0.4653837376690794,General Hydroponics MaxiGro,1.4264141550677165,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.0143606846039175,1416.4939018440016,0.9103534968274718,General Hydroponics MaxiGro,1.6148445709196755,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.521652235783691,1750.1721065800232,0.4800470812606752,General Hydroponics MaxiGro,1.6368421954472676,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.830862310880632,1722.1092968971225,0.8888875087838047,General Hydroponics MaxiGro,1.4153643345009126,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.843521307615442,1415.7290879692753,1.6050570350957551,General Hydroponics MaxiGro,1.4484282930066998,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.359499838852564,1449.6505378765514,0.30905245777909734,General Hydroponics MaxiGro,1.6412220555415429,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.213310004215473,1567.180351515806,1.7304183815969887,General Hydroponics MaxiGro,1.4744748057897747,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.622230394630595,1536.042814495711,1.0936761045608199,General Hydroponics MaxiGro,1.464683370718931,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.955281203808629,1705.6576673434927,1.577394722948513,General Hydroponics MaxiGro,1.30447235736899,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.1702173581674575,1444.9017041871116,0.5157360841919014,General Hydroponics MaxiGro,1.4495225078771783,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.742950054885574,1611.476933206284,0.06873220267448063,General Hydroponics MaxiGro,1.2970326132260417,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.074075348111245,1511.4806162619327,1.3226031530241842,General Hydroponics MaxiGro,1.4975804393609085,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.056005898013472,1148.5701914686429,1.271941775247534,General Hydroponics MaxiGro,1.552426467764317,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.943796478530753,1540.2875094402982,1.0856975551963004,General Hydroponics MaxiGro,1.4322255029475148,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.661316794726988,1426.9560628587367,1.063907602674913,General Hydroponics MaxiGro,1.583423266574016,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.9270707660764,1468.157164200203,1.3422973958182745,General Hydroponics MaxiGro,1.4879618836046402,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.73581728608292,1308.767768279123,1.9092284762622573,General Hydroponics MaxiGro,1.5421684468264445,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.076932934577061,1415.1789574599682,1.6344525828789114,General Hydroponics MaxiGro,1.6085982116175033,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.982600229193192,1283.074736048704,1.5633669145193094,General Hydroponics MaxiGro,1.5091864745648493,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.780935294517829,1035.3151994716375,0.7267994470997408,General Hydroponics MaxiGro,1.3932197078420807,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.957259191860501,1306.8735595166272,1.9862838348843312,General Hydroponics MaxiGro,1.5214450833971642,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.606675522386993,1350.4105610876832,0.2935497129809614,General Hydroponics MaxiGro,1.5238368982734785,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.677585277061586,1968.144455454188,0.9763940452216411,General Hydroponics MaxiGro,1.4312066133162822,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.6898082775038175,1718.6600619291814,1.5263025136279922,General Hydroponics MaxiGro,1.6314914453584048,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.602748983987351,1586.4910701814017,0.42354935071317784,General Hydroponics MaxiGro,1.2597246065100314,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.834832619047226,1891.8024934913492,1.0767722607498214,General Hydroponics MaxiGro,1.5194607455237243,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.583156865019332,1185.8522595512784,1.035393378930181,General Hydroponics MaxiGro,1.3759939707529416,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.578499792348015,1230.7002033664608,1.0969801589757942,General Hydroponics MaxiGro,1.6340450446023145,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.600503532592549,1334.9205864545154,1.6862633701437515,General Hydroponics MaxiGro,1.5268661426683772,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.052849708551448,1468.084604300511,1.606763695988259,General Hydroponics MaxiGro,1.3486285607387174,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.8653184016701,1573.3041766066526,1.999471542095179,General Hydroponics MaxiGro,1.4457627678561205,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.8809180454058065,1664.5503394266818,0.3255743360340307,General Hydroponics MaxiGro,1.5896839315865532,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.379614239887477,1374.2616596364512,1.2167527174774686,General Hydroponics MaxiGro,1.4509062550128635,"Cal-Mag Plus, Diamond Nectar",General Hydroponics pH Up
+Cucumber,5.569234766659973,1279.094872842807,0.4914627681833992,General Hydroponics MaxiGro,1.641093237974627,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.838175205053268,1271.5673230677312,1.3484998053369506,General Hydroponics MaxiGro,1.563659632582183,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.331533966737713,1706.2298226577236,0.1262416905826576,General Hydroponics MaxiGro,1.479188314272746,"Cal-Mag Plus, Diamond Nectar",General Hydroponics pH Up
+Cucumber,5.2556423086089294,1535.425212599566,1.3254917752056306,General Hydroponics MaxiGro,1.628732439015214,"Cal-Mag Plus, Diamond Nectar",General Hydroponics pH Up
+Cucumber,5.684074815143657,1669.7114002957665,1.059978618388892,General Hydroponics MaxiGro,1.4329379790923356,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.359348172467846,1567.7743079666357,1.2777132207641495,General Hydroponics MaxiGro,1.6171245789321544,"Cal-Mag Plus, Diamond Nectar",General Hydroponics pH Up
+Cucumber,5.582343797357077,1544.0466542850832,1.1556691032870865,General Hydroponics MaxiGro,1.4785078969711265,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.954964221688845,1367.5569568480207,0.026385810812442123,General Hydroponics MaxiGro,1.621331640918564,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.728826271043316,1580.9504634961531,0.3755652157508027,General Hydroponics MaxiGro,1.4407535740847106,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.984823981494366,1329.574436417734,1.3776469816091528,General Hydroponics MaxiGro,1.4524294736268804,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.964336111717784,1368.1546562838353,0.0262328126164027,General Hydroponics MaxiGro,1.6598647170504717,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.625935571802928,1716.944824995337,0.280193228473693,General Hydroponics MaxiGro,1.5903922750736856,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.891893251069898,1785.8190639788877,0.26263564522379157,General Hydroponics MaxiGro,1.3873232531090194,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.085266731857229,1301.3664649527307,1.06359176677341,General Hydroponics MaxiGro,1.6227720877139178,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.617537860958788,1288.0184847278601,0.0,General Hydroponics MaxiGro,1.5747910256117534,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.749176382199228,1501.3665107662935,0.9464598508044089,General Hydroponics MaxiGro,1.5899464971148245,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.691626589235131,1526.9750332713536,0.9314928850482734,General Hydroponics MaxiGro,1.3497029671604848,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.667052127663472,1906.7678244390163,1.7465566081071213,General Hydroponics MaxiGro,1.528012138896945,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.97252541005514,1341.503556852262,1.9793912121908115,General Hydroponics MaxiGro,1.4948606276411514,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.9223232274247675,1327.65785063887,0.6196613609177818,General Hydroponics MaxiGro,1.2580254752588238,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.735183939877333,1541.8316638563192,1.835378776924972,General Hydroponics MaxiGro,1.5645215585950056,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.019925679569464,1704.94090245416,0.3738981659780671,General Hydroponics MaxiGro,1.6003566560183284,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.751474493212937,1502.039960903309,2.0775877574573762,General Hydroponics MaxiGro,1.5947526462122859,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.075344053478025,1212.1279787442427,0.4199211942082819,General Hydroponics MaxiGro,1.4316040498200904,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.169349018594266,1246.271981673272,2.1406608687335558,General Hydroponics MaxiGro,1.551617828711496,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.009658637158414,1388.241543549,1.6237564877378001,General Hydroponics MaxiGro,1.544965590662585,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.7741886643299765,1165.1283753423752,0.8402199643395454,General Hydroponics MaxiGro,1.4855481329284481,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.680448424426771,1313.0196795588104,1.5238166288862778,General Hydroponics MaxiGro,1.4780556188355136,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.428800161161414,1558.6562270581978,1.2603444845759366,General Hydroponics MaxiGro,1.4060096898891135,"Cal-Mag Plus, Diamond Nectar",General Hydroponics pH Up
+Cucumber,5.846063137486246,1773.7038415182035,0.5020467805689595,General Hydroponics MaxiGro,1.4867483320458104,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.092369740255653,1607.3473845859817,0.6030837609225922,General Hydroponics MaxiGro,1.5183849544753696,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.571861730716201,1618.0972239576415,0.3122261368844378,General Hydroponics MaxiGro,1.5559449075995038,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.980462447212013,1448.504179177668,1.0352249221831034,General Hydroponics MaxiGro,1.323092409511088,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.516899040019445,1266.4817814170387,1.4501346696717685,General Hydroponics MaxiGro,1.3967130771412946,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.69636446374446,1573.3165341482713,0.0,General Hydroponics MaxiGro,1.4696273971223335,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.885601266467969,1275.048202677363,1.6535048919561106,General Hydroponics MaxiGro,1.5944971665388732,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.008044041807121,1343.0222444582298,1.4403934013249304,General Hydroponics MaxiGro,1.4865720837813696,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.920804675623903,1502.5195727051212,0.04702792705916431,General Hydroponics MaxiGro,1.5068370629310261,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.756988516038521,1690.8254307268444,1.5282352330238422,General Hydroponics MaxiGro,1.6203884437168816,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.0,1393.3173325287962,1.6253032186466168,General Hydroponics MaxiGro,1.4790547434350925,"Cal-Mag Plus, Diamond Nectar",General Hydroponics pH Up
+Cucumber,5.5937039036277945,1542.3421767998934,0.1700589932954088,General Hydroponics MaxiGro,1.530047435961083,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.551393075204126,1594.6304912135731,1.1387518746013356,General Hydroponics MaxiGro,1.660225322560691,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.473718122530977,1379.0399844861336,1.0653971423810875,General Hydroponics MaxiGro,1.6642672953255964,"Cal-Mag Plus, Diamond Nectar",General Hydroponics pH Up
+Cucumber,5.680906874331695,1160.3069775985693,1.4316603819457692,General Hydroponics MaxiGro,1.5119018406053975,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.872020129803094,1098.793360185923,0.24572136558481028,General Hydroponics MaxiGro,1.4808972237399831,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.873081183242409,1519.1056577081922,0.423429235022319,General Hydroponics MaxiGro,1.5216316881568501,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.743627076720387,1625.396837534946,1.680415210945594,General Hydroponics MaxiGro,1.5591814133741377,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.756274304387783,1264.503434437656,0.0,General Hydroponics MaxiGro,1.5255573653712369,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.718821815700468,1195.846800586264,0.6342693880045535,General Hydroponics MaxiGro,1.52439531979085,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.811022305639157,1428.5152250184763,0.6473837329554089,General Hydroponics MaxiGro,1.4202997196417817,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.746215832514293,1631.638958266017,0.6955867037613772,General Hydroponics MaxiGro,1.4383638591960524,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.676570386761179,1410.1491269425817,1.3099687546946333,General Hydroponics MaxiGro,1.4630414471082862,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.655805851339797,1281.6150095396558,1.3014566192507298,General Hydroponics MaxiGro,1.5466358374446334,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.517178110849408,1672.896889508858,1.423015083536845,General Hydroponics MaxiGro,1.5584572627949569,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.582938840056146,1434.5934575655936,1.3231623291177341,General Hydroponics MaxiGro,1.6372848474676531,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.733138738305574,1309.1627282558195,0.177372234836369,General Hydroponics MaxiGro,1.5371094051313923,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.301363694781773,1774.1683728955861,0.7987133335642274,General Hydroponics MaxiGro,1.363682599540719,"Cal-Mag Plus, Diamond Nectar",General Hydroponics pH Up
+Cucumber,5.646282434610514,1480.397623640656,1.9676918849466962,General Hydroponics MaxiGro,1.5572092778404922,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.349523575953101,1595.0033368225559,0.4672944609035602,General Hydroponics MaxiGro,1.3706727042128837,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.832029928168736,1437.3373697278391,1.2538683009968077,General Hydroponics MaxiGro,1.4792522477316128,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.790805002266486,1500.0346324848367,0.35014331183474084,General Hydroponics MaxiGro,1.5265878229652048,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.5551168695544675,1240.2344361722728,0.8101818487022833,General Hydroponics MaxiGro,1.3433650267035908,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.829890904663739,1878.353211864161,0.3737431988939592,General Hydroponics MaxiGro,1.4399576434261294,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.197604987296128,1663.2933598389154,1.2355406675243252,General Hydroponics MaxiGro,1.3420384492594124,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.682143844329723,1462.3194593367461,0.39939056320165767,General Hydroponics MaxiGro,1.56863184569567,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.085075744587978,1779.1306884389442,0.7122065315602737,General Hydroponics MaxiGro,1.5957882228176976,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.638701117644744,1782.8578206110662,1.867403202225304,General Hydroponics MaxiGro,1.6511154930247347,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.638625686933949,1201.998897197576,1.1090142986533806,General Hydroponics MaxiGro,1.5443880230217435,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.014736371261289,1248.5390665428265,1.9689167513529178,General Hydroponics MaxiGro,1.5404294754961698,"Cal-Mag Plus, Diamond Nectar",General Hydroponics pH Up
+Cucumber,5.475659755209932,1620.6916187354857,1.564139752513231,General Hydroponics MaxiGro,1.6052528941349664,"Cal-Mag Plus, Diamond Nectar",General Hydroponics pH Up
+Cucumber,5.71077150989267,1379.4049274337533,0.0,General Hydroponics MaxiGro,1.5034152417488025,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.780552147305017,1241.7270384043068,0.8518721532228877,General Hydroponics MaxiGro,1.5820555419006372,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.163034570154737,1328.555797213653,0.512980958818981,General Hydroponics MaxiGro,1.5462060893251897,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.97741687908647,1523.0762550847423,1.4937018523207664,General Hydroponics MaxiGro,1.5228576527517896,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.85592812372967,1727.3795232393043,0.46473262650934866,General Hydroponics MaxiGro,1.3496919698240182,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.654945541236126,1494.459843564931,1.0561738187868888,General Hydroponics MaxiGro,1.5157053605401452,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.9023289061733974,1832.924674720236,1.440432915657554,General Hydroponics MaxiGro,1.5497743089091394,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.757298701746049,1726.5493292826054,0.2883198498241686,General Hydroponics MaxiGro,1.3777788191327078,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.080817307424947,1837.1100886335926,1.4012205194147103,General Hydroponics MaxiGro,1.5668741655592513,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.547760016373299,1425.74182749706,1.5603535062437937,General Hydroponics MaxiGro,1.545479516964238,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.717619846774219,1589.7051343423898,1.6356689157568056,General Hydroponics MaxiGro,1.4339678860526552,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.907954383066779,1811.7544704566556,0.15923288598216664,General Hydroponics MaxiGro,1.4720126913833977,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,6.071343661837255,1238.8717325887276,0.8315629952275229,General Hydroponics MaxiGro,1.5617005949576697,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.639183319164459,1475.953043035506,0.9429975799663184,General Hydroponics MaxiGro,1.3898206802080106,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.55062657298762,1691.2965424594317,0.5609396387270789,General Hydroponics MaxiGro,1.3292642042407052,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Cucumber,5.950933294309479,1360.827020107693,0.3906227945039504,General Hydroponics MaxiGro,1.6146623916561929,"Cal-Mag Plus, Diamond Nectar",No pH adjustment needed
+Strawberry,6.049589121412985,1341.745849566931,0.643915942962438,Botanicare Pure Blend Pro,1.2042849085104956,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.666355937301496,1542.250619337535,0.43772468829819955,Botanicare Pure Blend Pro,1.2386639187481718,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.90524857700943,1313.3616248896112,0.6763607419473643,Botanicare Pure Blend Pro,1.155035478030147,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.786049399858325,1380.0828337339071,1.2968352718942555,Botanicare Pure Blend Pro,1.318569258974106,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.3321507386969555,1510.7057261900243,1.4095768674788507,Botanicare Pure Blend Pro,1.1851736711247383,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Up
+Strawberry,6.337750155388611,1277.1497152878776,0.5828327173972808,Botanicare Pure Blend Pro,1.3276793449325288,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.041707722295796,1451.9713914555064,1.0540022703828007,Botanicare Pure Blend Pro,1.3514254756017836,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.873177580637847,1570.1679319482248,0.6251924211020332,Botanicare Pure Blend Pro,1.285907208572238,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.161031502228588,1355.4159158037285,1.2179587262586018,Botanicare Pure Blend Pro,1.4381454078690488,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.209524856734351,1384.5603567021587,1.2883844796370425,Botanicare Pure Blend Pro,1.212948289415231,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.883970183422411,1426.2319783415894,0.801870384919632,Botanicare Pure Blend Pro,1.3239404500535377,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.171406798110634,1515.4551914594886,1.8935847195876507,Botanicare Pure Blend Pro,1.368133950318561,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.374583191916239,1385.0743448087903,0.35151304822035845,Botanicare Pure Blend Pro,1.5363872494619362,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.990246467642722,1427.2843638177492,2.218968802008554,Botanicare Pure Blend Pro,1.2249397102418786,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.146886679376831,1380.8633737010414,0.7452912402249585,Botanicare Pure Blend Pro,1.3859587886979803,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.805842129278642,1266.5450328245481,0.7607260290272456,Botanicare Pure Blend Pro,1.2983464249752374,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.354091839251954,1555.363922535939,0.7635495206856235,Botanicare Pure Blend Pro,1.2720239831504165,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Up
+Strawberry,5.597635663752745,1328.4720917150037,1.1895671758312605,Botanicare Pure Blend Pro,1.3329979460956858,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.379006331357695,1471.21388316397,0.2296990195536382,Botanicare Pure Blend Pro,1.167754204325643,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.099447954306298,1344.6647350573962,0.7571189481031888,Botanicare Pure Blend Pro,1.3009038186512307,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.411361716924015,1587.244929783746,0.8589578196376934,Botanicare Pure Blend Pro,1.2686470313827602,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.0990604743907975,1653.7048354489566,1.4969238676048449,Botanicare Pure Blend Pro,1.335902015255594,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.090172054753891,1280.681920183208,1.5830625248892554,Botanicare Pure Blend Pro,1.3918454443942414,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.958729420458942,1347.678195920262,0.011177418929237543,Botanicare Pure Blend Pro,1.2712106993558705,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.4468378045973225,1348.9054794013632,1.419782025277185,Botanicare Pure Blend Pro,1.5088442772869926,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Up
+Strawberry,6.132960442787881,1485.6262984935447,1.0818991065136707,Botanicare Pure Blend Pro,1.1702831378115124,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.7091789045755945,1512.3162666957635,1.0777529172248352,Botanicare Pure Blend Pro,1.3255383755674317,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.742636291095823,1171.552712707253,1.357729892944909,Botanicare Pure Blend Pro,1.317675479330205,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.531963682164774,1266.1993625490697,0.32908352984194694,Botanicare Pure Blend Pro,1.3996858773465808,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Down
+Strawberry,6.002171998726927,1275.9961497261215,1.519175732099289,Botanicare Pure Blend Pro,1.3338346666921592,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.721245221059787,1333.1178870947565,1.4231086923032108,Botanicare Pure Blend Pro,1.2936475425384646,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.832685651332758,1579.060159031797,1.9027810382120447,Botanicare Pure Blend Pro,1.3044267973349115,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.806580519199595,1392.3387973359663,0.0,Botanicare Pure Blend Pro,1.3619711445966136,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.682756943065695,1296.3848314200468,1.09740433367754,Botanicare Pure Blend Pro,1.2717153453822208,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.287033882989509,1344.6858164216815,0.0,Botanicare Pure Blend Pro,1.2993478684770543,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.5838140207480755,1517.8514790317727,1.2470644955482955,Botanicare Pure Blend Pro,1.3624071415119476,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Down
+Strawberry,6.298682060429663,1369.081192348087,1.2537061425336808,Botanicare Pure Blend Pro,1.2520507032600756,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.498691030993847,1614.1654596615851,1.973282495573586,Botanicare Pure Blend Pro,1.3310591258872704,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.440668024458562,1415.264981272711,0.1434266462833842,Botanicare Pure Blend Pro,1.234791111140694,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.983956341780866,1311.9459682597658,0.15535035401291053,Botanicare Pure Blend Pro,1.3031044897762356,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.679130087086393,1557.9817792010247,0.6340306181023483,Botanicare Pure Blend Pro,1.3854525227066616,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.907957617479552,1444.4434286945323,1.7146567795191132,Botanicare Pure Blend Pro,1.2390432171164019,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.364275801427062,1197.9880401625687,1.3010665193908828,Botanicare Pure Blend Pro,1.3625630933646002,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.070966465585629,1456.035771560265,0.08475464314233769,Botanicare Pure Blend Pro,1.293361238241003,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.829506458734988,1112.9491159486442,1.777440385090757,Botanicare Pure Blend Pro,1.2736551783917751,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.957175534944135,1482.1913961579696,1.6824065718629095,Botanicare Pure Blend Pro,1.3644628246317696,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.228060134855153,1340.0785353122233,0.0,Botanicare Pure Blend Pro,1.2755919526325799,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.160018108936131,1424.9728707627194,1.327215832196906,Botanicare Pure Blend Pro,1.3691881144855087,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Up
+Strawberry,5.5917431502099255,1583.1169907207964,1.6499402588681713,Botanicare Pure Blend Pro,1.4023709546106982,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.718187603520248,1375.1278703168937,0.8910970880766778,Botanicare Pure Blend Pro,1.2446807816565113,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Down
+Strawberry,6.170381735486044,1309.888336706744,1.9833806433971326,Botanicare Pure Blend Pro,1.3885231482988991,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.3310612275724765,1392.049502260284,1.0211870200564814,Botanicare Pure Blend Pro,1.2839628999417552,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.869649639318452,1534.2482364934451,1.2332711065939688,Botanicare Pure Blend Pro,1.2514694164632132,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.056399504045328,1609.7994775740096,0.5492316995082632,Botanicare Pure Blend Pro,1.3473693136732228,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.980560512719878,1350.7581606943368,1.6411782728639557,Botanicare Pure Blend Pro,1.3463288530118107,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.240283595467178,1378.8075483685768,0.6460456100378111,Botanicare Pure Blend Pro,1.3538798158769263,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.328146398389343,1408.2096540409177,1.170890847894542,Botanicare Pure Blend Pro,1.2548340523840378,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.65095388943061,1509.8350295417788,1.8477041392670597,Botanicare Pure Blend Pro,1.2658892097451284,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.565164521465729,1251.9052308702953,1.5254852191489507,Botanicare Pure Blend Pro,1.3820344012612455,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Down
+Strawberry,6.436898419734338,1341.7397885070034,1.7633892629279346,Botanicare Pure Blend Pro,1.3308450108331515,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.402610398810738,1128.9671462271654,0.6729644355982458,Botanicare Pure Blend Pro,1.2715124506630329,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.327048435878106,1254.9555891606344,1.823614666649075,Botanicare Pure Blend Pro,1.4051895057265604,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Up
+Strawberry,5.645384160465857,1195.4900113932033,0.16813379095363307,Botanicare Pure Blend Pro,1.3181426620113972,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.886743608273744,1448.502463688649,0.0,Botanicare Pure Blend Pro,1.2849895778414495,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.100175267748354,1754.368735733423,0.3442569812190678,Botanicare Pure Blend Pro,1.199594540315799,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.396487034109923,1357.213422347973,0.0,Botanicare Pure Blend Pro,1.067804358265819,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Up
+Strawberry,6.321419421766196,1457.6738357570111,1.4131841340316125,Botanicare Pure Blend Pro,1.107232742065439,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.103236043976795,1487.1078868110787,2.1195779197571136,Botanicare Pure Blend Pro,1.2925255831849833,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.182858926164915,1358.6399396910222,1.3356865247982572,Botanicare Pure Blend Pro,1.2075534011870446,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.006379981067961,1347.9743735032996,0.1817648153672355,Botanicare Pure Blend Pro,1.5684674238064074,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.440132133800473,1207.5735280965396,1.1486796483060222,Botanicare Pure Blend Pro,1.1902697472367156,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.77366755666233,1294.9815100325086,0.5134958902904287,Botanicare Pure Blend Pro,1.280915868135665,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.713518355806302,1368.6332951310476,0.14241846718193243,Botanicare Pure Blend Pro,1.276947537481975,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Down
+Strawberry,6.16078472608775,1398.8501183817611,1.4553745754298257,Botanicare Pure Blend Pro,1.232317078361299,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.481035240574367,1452.8053570161705,0.3990331436302633,Botanicare Pure Blend Pro,1.3458386703551486,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.124149560054798,1355.6082350470492,0.05631386153634435,Botanicare Pure Blend Pro,1.2267107114272775,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.287061516307941,1436.8279937909563,0.3830978573345907,Botanicare Pure Blend Pro,1.250026982384837,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.331243152902766,1503.3425616088757,1.4190244893960304,Botanicare Pure Blend Pro,1.1889996428114074,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.112234485394478,1824.8599299951686,1.4043888465291259,Botanicare Pure Blend Pro,1.4724696649761109,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.028553984306533,1274.8405473672294,0.09977905857687866,Botanicare Pure Blend Pro,1.2106506766112393,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.691047178567726,1434.2938157856634,0.6524360284353903,Botanicare Pure Blend Pro,1.335845361820962,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.4213433155805255,1337.72827100483,1.2267878964222558,Botanicare Pure Blend Pro,1.283377851528985,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.375389008029507,1566.0209283600989,1.010531816099528,Botanicare Pure Blend Pro,1.2935811822891503,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Up
+Strawberry,6.600496463591757,1300.7805399072436,1.6319580849403124,Botanicare Pure Blend Pro,1.41468791992519,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Down
+Strawberry,6.170261069369965,1620.7352654358447,1.9449195938979675,Botanicare Pure Blend Pro,1.4472670675750983,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.468390251944377,1267.3913966762425,0.5159083517772912,Botanicare Pure Blend Pro,1.1748621753572608,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.462667749295792,1502.8853531879176,0.4362775496546834,Botanicare Pure Blend Pro,1.1852308610184332,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.320665583936137,1532.0494477891816,1.3085565629502083,Botanicare Pure Blend Pro,1.2627727515714402,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Up
+Strawberry,6.061393832789076,1645.8193829503314,1.3422205382402537,Botanicare Pure Blend Pro,1.2763444712781054,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.174680592629522,1606.9661197934445,0.5273011181284774,Botanicare Pure Blend Pro,1.2507244788805922,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.91260861453497,1323.352996896982,1.2977776820004334,Botanicare Pure Blend Pro,1.3270057358391423,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.751012705134988,1320.1499623062093,1.2167325981846515,Botanicare Pure Blend Pro,1.1991335998833172,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.511108909020122,1376.2891956080232,1.5188042307119805,Botanicare Pure Blend Pro,1.427235350010677,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Down
+Strawberry,6.2503737450351435,1562.1849083961552,0.8344813261882067,Botanicare Pure Blend Pro,1.2087945897846093,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.267260509217602,1353.4503787817996,1.9755438263781961,Botanicare Pure Blend Pro,1.2787791030098847,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.683425732095802,1347.1386502413895,0.3318528297145621,Botanicare Pure Blend Pro,1.3450655555334656,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.764797688629425,1462.8666332854377,0.21684114062595686,Botanicare Pure Blend Pro,1.166451843090011,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.838770718290807,1465.075752789828,0.2855555203958127,Botanicare Pure Blend Pro,1.2671400561908444,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.5586905814637255,1202.3845073760442,0.5661271939134243,Botanicare Pure Blend Pro,1.355174079991092,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.722549492431462,1262.7207040588191,1.7293996594131238,Botanicare Pure Blend Pro,1.2813196608739,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.516682427103404,1524.8939396109959,0.8700674329880885,Botanicare Pure Blend Pro,1.2341751587666152,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.005911879988544,1493.7032455267783,1.9153416404351296,Botanicare Pure Blend Pro,1.2293439421166528,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.499052231251709,1454.0044743793023,2.019886274555633,Botanicare Pure Blend Pro,1.0950058721422522,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Up
+Strawberry,5.590937288977792,1631.404192907054,1.5362986360963624,Botanicare Pure Blend Pro,1.2711204697300513,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.74378832758918,1396.1272079784592,1.1112159449929293,Botanicare Pure Blend Pro,1.2604319288243737,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.416840760880886,1462.4190803820447,0.11445083201938014,Botanicare Pure Blend Pro,1.4018157247648753,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Up
+Strawberry,5.776433459826357,1469.9519159182714,1.2091066200968918,Botanicare Pure Blend Pro,1.4702514658129606,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.5776739634375145,1358.500363755085,1.2951567949346636,Botanicare Pure Blend Pro,1.3274027352672086,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Down
+Strawberry,5.9395157748567975,1299.5643827305857,1.6521626677418992,Botanicare Pure Blend Pro,1.3309998983165556,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.478800966185151,1219.0661693749284,0.9830595444589058,Botanicare Pure Blend Pro,1.2914391910528755,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.753106862455955,1303.7471293562571,1.7839329819957601,Botanicare Pure Blend Pro,1.4279464931657753,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.440427101836949,1438.085867862527,1.9081993932327053,Botanicare Pure Blend Pro,1.2663621336889597,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.900877672899597,1509.8917870983237,0.3308958401506858,Botanicare Pure Blend Pro,1.1130183660467836,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.216413865249688,1257.264308034785,0.1737786177045104,Botanicare Pure Blend Pro,1.2775254379485015,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.419880183863291,1384.0645394248259,1.303140417015575,Botanicare Pure Blend Pro,1.2641970620253014,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Up
+Strawberry,6.443160023060155,1325.4981583451547,0.02949175731911889,Botanicare Pure Blend Pro,1.2918477173180651,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.065405561468267,1259.4076457469782,1.2285036556095608,Botanicare Pure Blend Pro,1.4494938227453236,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.2698991728803115,1505.8184038241675,0.5021284342953272,Botanicare Pure Blend Pro,1.3780070297391065,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.136321152903037,1321.1648878076044,0.7107172969400564,Botanicare Pure Blend Pro,1.2287826135823956,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.920213108129684,1459.5092598975755,0.3261937468832915,Botanicare Pure Blend Pro,1.2224965810576276,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.343585084812421,1234.7823250539066,0.6367287417149256,Botanicare Pure Blend Pro,1.310940847183297,"Cal-Mag Plus, Sweet Raw",General Hydroponics pH Up
+Strawberry,6.037606291301338,1468.554236325874,1.3590493201530578,Botanicare Pure Blend Pro,1.1654416599895034,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.889130847405505,1408.7185279186008,0.0,Botanicare Pure Blend Pro,1.360824619168497,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,6.079001249121118,1393.754195601729,1.6783439446112132,Botanicare Pure Blend Pro,1.1571851504554902,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Strawberry,5.936216007585756,1500.4817307150706,1.4313954033904972,Botanicare Pure Blend Pro,1.2669210775672444,"Cal-Mag Plus, Sweet Raw",No pH adjustment needed
+Basil,6.162610861416879,830.7678117975198,1.463586390661916,General Hydroponics FloraMicro,1.1115433297381134,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.534137417558854,1001.9984813653209,0.2718709937325039,General Hydroponics FloraMicro,0.8119989966092236,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Basil,6.015893681703223,991.2601981345728,1.9950655635024093,General Hydroponics FloraMicro,1.0295427286564884,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.325737121191708,976.0202645615517,0.0,General Hydroponics FloraMicro,1.083019181186261,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Basil,6.2749412095760615,832.666240170854,0.4322350679705893,General Hydroponics FloraMicro,1.1688442155746133,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.771825478587393,934.2188193795779,1.0036576541218067,General Hydroponics FloraMicro,1.0721479323757344,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.030710624397086,868.9926984327699,1.4652376885074865,General Hydroponics FloraMicro,1.032543685943381,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.70086662201649,1004.441576859737,0.5990553827469262,General Hydroponics FloraMicro,0.7974192126888623,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.528857892752644,707.002004186786,0.8058410929959565,General Hydroponics FloraMicro,0.7793581151616267,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.711589280852547,918.0830061144443,1.3301488140869002,General Hydroponics FloraMicro,1.2868403055666768,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.695070493111708,713.797540852693,0.9882970411979766,General Hydroponics FloraMicro,0.9720431695733457,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.335368333616315,853.0242836042767,1.1786726484404069,General Hydroponics FloraMicro,1.105811832508715,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.310162463830559,983.519604838403,0.8341698424771634,General Hydroponics FloraMicro,1.1734831891227229,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.649326807947809,1200.2085265156468,0.47139620953503525,General Hydroponics FloraMicro,0.9621992100981783,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.442381007868064,1077.9510353194325,2.1438248281646257,General Hydroponics FloraMicro,0.934304482360159,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Basil,6.096566063897323,885.1961014728068,0.23410117953008558,General Hydroponics FloraMicro,1.0134296497247792,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.477459314156213,853.4416846537805,1.3125707264313011,General Hydroponics FloraMicro,0.8411181524679778,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.7631795666596455,772.1217444569463,0.4736368194863603,General Hydroponics FloraMicro,0.751219134346492,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.261229279198195,1219.60347685003,1.001885803543337,General Hydroponics FloraMicro,0.8367397254312676,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.240217837930833,892.7279518335016,0.6738038643798254,General Hydroponics FloraMicro,0.8974247316359723,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.19339829834449,1102.5908722768013,1.6559503339017534,General Hydroponics FloraMicro,1.1439445715153136,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.103849349705105,609.3137015265662,0.4967902180150704,General Hydroponics FloraMicro,1.0416446038101452,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.1364870550789,1040.4421126857903,0.04542845738754758,General Hydroponics FloraMicro,1.0085284233493352,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.247234808992924,770.1006376557531,1.3919508364084765,General Hydroponics FloraMicro,1.0475167746495382,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Basil,5.3740370734675995,801.2753305802423,1.5458865680724718,General Hydroponics FloraMicro,1.0238829386186414,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Basil,6.5898433493320585,810.7019171733136,1.1872786044314105,General Hydroponics FloraMicro,0.9851030690232703,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Basil,6.126902218679221,918.1585782343217,0.8704823657420042,General Hydroponics FloraMicro,1.1010413826250656,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.774475288815015,1142.8366261887556,0.9276607104037553,General Hydroponics FloraMicro,0.9863004510557541,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.733270206055492,784.4131315514753,1.1328091458970593,General Hydroponics FloraMicro,0.9505645662143283,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.7752651736784095,599.2732280744588,0.957425936539406,General Hydroponics FloraMicro,0.8644552496887711,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.194195629515092,936.7403357059037,1.7853834881321933,General Hydroponics FloraMicro,0.9457717662237336,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.025774578945785,772.160167726379,0.7773619294236959,General Hydroponics FloraMicro,0.9271727797593386,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.908005330826375,750.097103286964,0.7355226255456575,General Hydroponics FloraMicro,1.0919703314084301,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.475339106425909,940.8231750040586,0.0,General Hydroponics FloraMicro,0.9197175556049157,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.492204772092306,780.8621383932691,1.1060385182142394,General Hydroponics FloraMicro,1.0317146984710475,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Basil,5.678472647356153,957.248364367777,1.299282600033985,General Hydroponics FloraMicro,0.9901154798760694,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.736261253732964,986.2030848842603,1.921604847956397,General Hydroponics FloraMicro,0.9507227271757063,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.971788319842021,1148.557214454002,1.7368876927390087,General Hydroponics FloraMicro,0.959692401093497,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.966184553097692,911.5050249687577,0.7150367078385373,General Hydroponics FloraMicro,1.0807444718008352,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.801501509356792,927.7030608805796,0.0,General Hydroponics FloraMicro,1.1063940987560856,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.548012833221529,990.3372534113695,1.3475452485734984,General Hydroponics FloraMicro,1.1746738937508345,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Basil,6.572694744127021,799.6373647952812,0.9525175135883692,General Hydroponics FloraMicro,1.0292715482141854,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Basil,5.250711626683467,967.058193329946,1.4088826256580549,General Hydroponics FloraMicro,1.0234977874816247,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Basil,5.8463045882811535,643.100501329997,0.3433871658161287,General Hydroponics FloraMicro,0.943939236315269,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.9721536381735785,921.8947213462507,0.6200337298348363,General Hydroponics FloraMicro,1.0009465194022682,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.602494424527214,1043.3767212829148,1.1670942055624267,General Hydroponics FloraMicro,0.8663274561124069,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.047973518185983,801.242454775281,1.5644207961998642,General Hydroponics FloraMicro,1.0119600262667103,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.053702826466385,905.027545837383,1.5993465665140747,General Hydroponics FloraMicro,1.1386349397262845,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.932866737821151,956.3926047167826,0.6477010557316938,General Hydroponics FloraMicro,1.1134294793888213,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.992386966966679,745.9764061798579,0.2962312570032217,General Hydroponics FloraMicro,1.193515404006023,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.795591560233326,956.204151382794,0.24601287391198823,General Hydroponics FloraMicro,0.9651706546418543,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.395217661155325,788.2557098240037,0.8987132542857591,General Hydroponics FloraMicro,0.9466399693560833,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.074395666407488,1035.2601636767358,0.9079667804662771,General Hydroponics FloraMicro,1.0282002625016855,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.815521059296691,768.9793483412865,0.3805237149416887,General Hydroponics FloraMicro,0.7506729179669922,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.296313866121732,728.4228023915838,1.6245317870256137,General Hydroponics FloraMicro,0.8831258971506873,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.283288876496573,1061.4938383726733,0.6949362538131293,General Hydroponics FloraMicro,0.8760947297473357,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.294406664208591,877.110643034613,0.09593555460026981,General Hydroponics FloraMicro,1.0433749220886346,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.33236627851483,1084.9582824734111,1.3701711690100642,General Hydroponics FloraMicro,0.9964174421293537,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.391851340979801,887.9774710850243,1.1982512693576384,General Hydroponics FloraMicro,0.9772112018449338,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Basil,5.913734575577198,1020.8433064640428,0.0252669200378189,General Hydroponics FloraMicro,0.8700783636554176,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.707305788396932,711.702903009623,1.0934353441041211,General Hydroponics FloraMicro,1.0049802790902833,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.567432443060964,1152.301007049754,1.094737724601043,General Hydroponics FloraMicro,1.1311983738573947,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.13542111722958,1004.476135885632,1.0183755075070755,General Hydroponics FloraMicro,0.9250784382911078,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.190488949779889,810.8666884807827,1.190234008909844,General Hydroponics FloraMicro,0.8706492374795904,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.981378766211256,937.2360221729696,0.7791547142031848,General Hydroponics FloraMicro,1.099941903267791,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.8699148713280564,1079.184759211038,1.4253622015965206,General Hydroponics FloraMicro,0.9772523740046593,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.756228847366349,907.7342001004412,0.049717835568564905,General Hydroponics FloraMicro,1.075917850270526,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.98812517870091,977.6809520935542,0.6320015320310467,General Hydroponics FloraMicro,1.0111372601840052,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.586567555966788,932.8631395461771,1.5447198817839094,General Hydroponics FloraMicro,1.0416929503264816,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Basil,5.356145433293545,1017.2657109177256,1.0629745510794502,General Hydroponics FloraMicro,1.004693490206037,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Basil,5.8271926738331254,829.1858096578652,1.323770493733171,General Hydroponics FloraMicro,0.9361723034302852,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.3676964367031506,1108.567971293077,0.6726399155151457,General Hydroponics FloraMicro,1.0370061115268956,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.451686910624061,785.3362982857952,0.6200796132450676,General Hydroponics FloraMicro,0.9545966419680556,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.973517368756996,996.5944989089974,1.8325878701591443,General Hydroponics FloraMicro,1.0550797572273662,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.419815837473884,1112.9130181505,2.3341848884777603,General Hydroponics FloraMicro,1.0008828138267394,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Basil,6.085240120670783,781.6180565736645,0.8626751223873242,General Hydroponics FloraMicro,0.8742131844091112,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.4151987398631345,998.3905628802686,1.971883195486645,General Hydroponics FloraMicro,0.9278036672874871,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.229040008507482,991.931171106106,0.5192688704706448,General Hydroponics FloraMicro,0.9849757011201741,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.043254034876438,1023.2075235366596,0.49786447662263283,General Hydroponics FloraMicro,1.0211600380588506,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.475462146186248,899.4962848078674,1.3152978134217295,General Hydroponics FloraMicro,1.0839468504518406,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.409736935878073,1192.996707578513,1.4143090658202155,General Hydroponics FloraMicro,1.0608228895307312,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Basil,5.825624859672072,1016.5284489992063,1.5894965401055994,General Hydroponics FloraMicro,0.916307929620372,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.237541149434177,794.9782930909014,1.5557896128352586,General Hydroponics FloraMicro,0.9735828990084666,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.531980668605294,641.7776387843824,0.916912149914904,General Hydroponics FloraMicro,0.9841846155627679,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Basil,6.048486092946811,857.0800425561973,0.0,General Hydroponics FloraMicro,1.1745871336135156,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.021566951982198,1136.7039923378861,0.15148577452623646,General Hydroponics FloraMicro,0.7683856137031123,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.935964938033299,848.6630422759976,1.025199436403699,General Hydroponics FloraMicro,1.0021060198364364,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.346574848298463,710.1023615743011,0.0,General Hydroponics FloraMicro,1.0521279905013814,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.596375321484691,802.4347070161247,1.4548385343709345,General Hydroponics FloraMicro,0.8958152454559472,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.731646372795079,890.337146098012,1.4932297751969115,General Hydroponics FloraMicro,0.9551775383699851,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.068927553888862,889.3583224248029,1.3086877611527843,General Hydroponics FloraMicro,1.1504214282829923,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.326237666851637,985.2854634354533,2.0189441953989458,General Hydroponics FloraMicro,1.0017613251933657,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.073299979722799,689.1803873474365,1.307666219692603,General Hydroponics FloraMicro,1.1029882539130331,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.17112299545161,624.2808225625853,0.26142458943462005,General Hydroponics FloraMicro,1.0471542380418206,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.9142112133286995,949.8851217249282,1.6073560732690118,General Hydroponics FloraMicro,0.9688012991351996,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.244887340447979,608.071941514461,0.6881745278458757,General Hydroponics FloraMicro,0.9449448068291513,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.719498120270635,919.8785785611018,0.08674713892795868,General Hydroponics FloraMicro,1.008507903197999,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.506887985509253,779.6571726835735,1.7208667276441587,General Hydroponics FloraMicro,0.9674388947851496,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Basil,6.14159646716553,1003.525156152763,1.6479639461486573,General Hydroponics FloraMicro,0.8537233692888879,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.7147631672868116,980.0746827780733,0.3267022764833951,General Hydroponics FloraMicro,0.8031495786561946,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.329121656327958,891.0147008747442,1.24694016279789,General Hydroponics FloraMicro,0.9257751986433798,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.836953092367366,704.3479099397331,0.46844026021702284,General Hydroponics FloraMicro,0.881596944177744,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.71073566308853,702.752477863853,1.76646898426091,General Hydroponics FloraMicro,0.8523932908228278,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Basil,5.92839430333203,809.4196373796138,1.8356234337232966,General Hydroponics FloraMicro,0.9471702953337021,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.873224113316581,858.5339143743852,0.6232965721500668,General Hydroponics FloraMicro,1.1181761395661494,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.828046626809837,645.4347299450351,0.7967227814856427,General Hydroponics FloraMicro,1.0828229690184623,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.144544745494395,1031.5713542192277,0.3425869382580487,General Hydroponics FloraMicro,1.0801080963788185,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.110768937511979,695.5164917676019,1.100935936380402,General Hydroponics FloraMicro,1.05913492417584,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.779572808727082,707.4401649608956,0.08206779584759427,General Hydroponics FloraMicro,0.9954535023870995,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.87158402363454,1254.3067419729,0.3513665531157992,General Hydroponics FloraMicro,1.0996118214911128,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.985310794766566,841.6625851722795,0.5976527181983355,General Hydroponics FloraMicro,0.9347191515830197,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.028826648156736,1124.1666997938212,1.1693154260196144,General Hydroponics FloraMicro,0.9803719348612063,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.303384158008374,1075.8953704872602,0.7323638973701826,General Hydroponics FloraMicro,0.7100106219725001,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.990221389189393,1140.2674905459785,0.9779228652233146,General Hydroponics FloraMicro,0.8091997862876692,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.380401328287845,909.7080864757183,1.7448265837065404,General Hydroponics FloraMicro,1.062152184861589,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.678853554061909,771.6666013206667,0.42548267649396665,General Hydroponics FloraMicro,0.9677971845507941,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Basil,5.91639911976683,1128.7152272363153,0.24195923067424618,General Hydroponics FloraMicro,0.9069335782039613,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.2311216428263965,957.5244817332887,0.621981795059042,General Hydroponics FloraMicro,0.9940584818727506,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.817867143242894,982.4012894312123,0.6548822180482714,General Hydroponics FloraMicro,0.8812534598261561,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.473405933145422,1084.0805288181402,0.4837897936507243,General Hydroponics FloraMicro,1.0760846654311478,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.36113551720129,960.5529323754646,0.8848830262398556,General Hydroponics FloraMicro,0.9450395415335167,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.014868229325818,956.6742917182663,1.0543972993400188,General Hydroponics FloraMicro,1.0428186247810576,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.74471354733402,1064.5556143924878,0.09749270626477202,General Hydroponics FloraMicro,1.0520553057732427,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,5.93511261715841,736.0704936885653,0.49780872260975384,General Hydroponics FloraMicro,1.1890440685155783,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Basil,6.115228646731099,1021.415016717296,1.7869163245287656,General Hydroponics FloraMicro,0.9295177829002017,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.4530318446547,1347.318831677326,1.2706787167349824,General Hydroponics MaxiGro,1.2086697699414397,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.4727325611998845,1620.8663454441082,1.7476733947319791,General Hydroponics MaxiGro,1.3508047591419152,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.6510455730873215,1223.2151834769854,1.167943039254393,General Hydroponics MaxiGro,1.1451799701833227,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.033718765185912,1482.9841512062687,0.9611968004067978,General Hydroponics MaxiGro,1.0297871293461611,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,5.933985726160936,1589.3494496626374,1.4297279152359048,General Hydroponics MaxiGro,1.1679702195463357,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.899311981988689,1434.6661601382525,1.583782984390243,General Hydroponics MaxiGro,1.2377092093742477,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.138955014217198,1492.5570123945051,0.8628251544520176,General Hydroponics MaxiGro,1.0594436946143713,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,7.0,1260.423418703789,1.0494431062463405,General Hydroponics MaxiGro,1.0419249182690558,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,5.669553986248819,1495.5364464270674,1.0194975490154468,General Hydroponics MaxiGro,1.168176247225738,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.42290478875732,1396.4324862702342,1.3203475873570016,General Hydroponics MaxiGro,1.2995211222477399,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.468894255956069,1515.147660942523,1.0674239827035392,General Hydroponics MaxiGro,1.1778486737047875,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.241597672001364,1650.3949013742333,1.6715250130724986,General Hydroponics MaxiGro,1.0769861756241912,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.831179857207315,1495.0570511194926,0.8818729707812815,General Hydroponics MaxiGro,1.218125116260205,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.727275987300665,1485.376107835901,1.0510812783481436,General Hydroponics MaxiGro,1.3426592980324465,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.689655602004022,1518.891134154965,1.600158503890343,General Hydroponics MaxiGro,1.1367119725115207,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.725970235557535,1468.545542408246,1.3201514521738307,General Hydroponics MaxiGro,1.3619824604982649,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.153166219919516,1275.0720062833452,0.0029983166166723113,General Hydroponics MaxiGro,1.1694380888931686,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.130794250666794,1534.13850223593,0.8392583760883398,General Hydroponics MaxiGro,1.1494983149632663,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.988572217670335,1577.8137559535212,0.4013242423963743,General Hydroponics MaxiGro,1.161263803544719,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.167103054544707,1629.1275844571212,1.6145768180653675,General Hydroponics MaxiGro,1.182584939025078,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.39466495583703,1317.2709070753174,1.3751829648746063,General Hydroponics MaxiGro,1.2072278965384289,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.629654878920273,1309.6534243956196,0.8199526625502381,General Hydroponics MaxiGro,1.181311416961935,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.409863570139716,1513.9530134879071,0.7493012537211381,General Hydroponics MaxiGro,1.0469538590256622,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.415523242218431,1487.7735197288052,0.2023783493121945,General Hydroponics MaxiGro,1.190160701724876,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.54635561255097,1420.7543915428116,0.17631901805676986,General Hydroponics MaxiGro,1.0904480611154437,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.691966752937104,1144.7000421786456,1.345834698591195,General Hydroponics MaxiGro,1.209849834802468,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.5465108447690845,1603.0841301764988,0.9652503847418643,General Hydroponics MaxiGro,1.363835973227094,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.326337836421176,1511.0333401968762,0.7606141474627914,General Hydroponics MaxiGro,1.1965478200168689,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.655024591897773,1358.2664270222158,1.6255334326257624,General Hydroponics MaxiGro,1.2084168230185697,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,7.0,1429.6166907640509,0.3914998298355046,General Hydroponics MaxiGro,1.1396109884344214,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,5.820510603282302,1348.1876774840246,1.4632613838303394,General Hydroponics MaxiGro,1.1033753680246745,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.674087346216732,1373.9405056286064,1.9564698654298855,General Hydroponics MaxiGro,1.2975678345438153,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.7653410704334584,1553.3777178632897,0.0,General Hydroponics MaxiGro,1.141509234658223,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.019795717399741,1156.852182103671,1.287215543824196,General Hydroponics MaxiGro,1.393438852790853,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.106266422078182,1560.5806071012466,0.2778456078729305,General Hydroponics MaxiGro,0.9573607929464791,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.415750221046552,1469.6828293485032,1.9102854080857299,General Hydroponics MaxiGro,1.2182529280397438,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,7.0,1329.1148234677737,0.7085416904244676,General Hydroponics MaxiGro,1.1030256280365325,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.2462112825723946,1624.5131476820575,0.0688869371684821,General Hydroponics MaxiGro,1.0826843440967227,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.459191995671943,1296.7725670785696,0.7924830177279857,General Hydroponics MaxiGro,1.0140663228339941,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.845502881159015,1264.6406917338943,1.5535197472232594,General Hydroponics MaxiGro,1.035744664636688,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.757800631895271,1336.2198530916432,1.5124517849883075,General Hydroponics MaxiGro,1.28447743757817,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.671469813216449,1598.0547355561214,1.7554765538425225,General Hydroponics MaxiGro,1.047887004830542,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.380793841696294,1575.8657535063408,1.8583988132088693,General Hydroponics MaxiGro,1.2504483256383017,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.367551878774318,1532.4467006251962,0.9347005750343044,General Hydroponics MaxiGro,1.336623898996573,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.347111608165572,1389.1807374949283,0.509438294180297,General Hydroponics MaxiGro,1.41962231421528,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.656921071082788,1618.3184389502958,1.4687127154567785,General Hydroponics MaxiGro,1.2621945810952209,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.571569983196256,1263.6779073891464,1.0677035677513644,General Hydroponics MaxiGro,1.1708241367741463,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,7.0,1442.3143894823188,0.8299099737528315,General Hydroponics MaxiGro,1.109994576733575,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,5.779942554063146,1169.279440339961,0.36821568229870094,General Hydroponics MaxiGro,1.1898719281298467,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,5.928072857255432,1155.9460404485274,2.0077392852624216,General Hydroponics MaxiGro,1.2045871444884564,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.085782728560424,1518.7723341449548,1.340442737215925,General Hydroponics MaxiGro,1.2185688580418739,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.568332585592457,1639.362977372613,0.33345518339118685,General Hydroponics MaxiGro,1.1658825419329988,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,7.0,1132.7161699944402,0.1871689662365123,General Hydroponics MaxiGro,1.2126267736234069,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.619684720986375,1271.7150679041192,0.3100323488027748,General Hydroponics MaxiGro,1.0759645747849027,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.264912430934383,1674.955335553378,1.8699483521587599,General Hydroponics MaxiGro,1.1535418921884382,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.287131628523291,1447.639412553844,1.8343808977778213,General Hydroponics MaxiGro,1.095478563767929,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.308859470450558,1270.5904635512197,1.647187110489428,General Hydroponics MaxiGro,1.0923320872528985,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.673106424736612,1187.626573086146,1.809640937352969,General Hydroponics MaxiGro,1.3096652268766096,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,7.0,1358.7487570742528,1.4192434835112078,General Hydroponics MaxiGro,1.1354427927964605,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.740413551716792,1175.7441418248973,0.9829102381930213,General Hydroponics MaxiGro,1.2955323802124254,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.622248277817697,1283.3440701555357,0.0,General Hydroponics MaxiGro,1.143923909302014,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.2842033831085855,1362.1839626903607,0.3956223063163975,General Hydroponics MaxiGro,1.2317908384095675,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.83735796841363,1460.3238397946805,1.5908493885309114,General Hydroponics MaxiGro,1.3195480650825477,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.665742599456135,1388.0339677039854,1.0324186937052622,General Hydroponics MaxiGro,1.119504057989586,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.49154457276919,1515.5004012855547,0.0,General Hydroponics MaxiGro,1.404206965292788,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.191830669794914,1598.1488882032602,1.6547506940162742,General Hydroponics MaxiGro,1.138316912287773,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.488034774934237,1672.036499688421,1.2856201615663578,General Hydroponics MaxiGro,1.1467274501783096,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.339274183796039,1467.2316494858799,0.8345907774727523,General Hydroponics MaxiGro,1.2511326644162355,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,7.0,1708.6536582260082,0.0,General Hydroponics MaxiGro,1.234859511986098,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.541885366356405,1596.7042146292717,2.039981477957913,General Hydroponics MaxiGro,1.1543613538662525,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.4898109747368355,1170.9641777085908,0.150294996600408,General Hydroponics MaxiGro,1.2608905356254632,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.298025093897177,1466.8715099047388,0.0,General Hydroponics MaxiGro,1.1664900521200765,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.5023936596089875,1378.502760288583,1.500718664335539,General Hydroponics MaxiGro,1.1155675962816929,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.014570775270883,1565.9199407370322,1.5788594916565248,General Hydroponics MaxiGro,1.192278255653205,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.905453480769524,1520.1863249943149,0.4211903678274538,General Hydroponics MaxiGro,1.2500143033113884,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.508070361603131,1445.2674426462063,0.32310925753948294,General Hydroponics MaxiGro,0.9976346021987832,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,5.992360146649941,1475.069042442418,1.3948045575523411,General Hydroponics MaxiGro,1.2296576938530304,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,5.90980592186288,1376.4446026694986,1.364474880649947,General Hydroponics MaxiGro,1.0291345752857375,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.5119322537415485,1454.2491422658277,1.63907810266784,General Hydroponics MaxiGro,1.3162838577534985,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.282498419587285,1302.892431768299,0.02294022201369303,General Hydroponics MaxiGro,1.2465773318490823,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.3646474624123215,1598.9198752718999,1.3266735272325842,General Hydroponics MaxiGro,1.2514062552424776,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.235937473379607,1384.7959136558745,1.7416025745327735,General Hydroponics MaxiGro,1.1919051793756157,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,5.864392780750272,1518.2663936489769,0.3262220489134484,General Hydroponics MaxiGro,1.0405244041836665,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.915611073332959,1496.317522138775,0.04117597496687264,General Hydroponics MaxiGro,1.2675509997679786,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,5.995726078303064,1606.8851097708127,0.753433756272326,General Hydroponics MaxiGro,1.080581059890771,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,7.0,1166.7176441266863,0.652491027708141,General Hydroponics MaxiGro,1.1812563024689138,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.4037801020905665,1600.0972053633216,0.33850276252324407,General Hydroponics MaxiGro,1.193046771375773,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.562152075786858,1337.9064288970676,0.6483216237577785,General Hydroponics MaxiGro,1.1645821244464298,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.043842479626591,1413.045452087342,1.3861379225814496,General Hydroponics MaxiGro,1.4075065039348542,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.871647792024112,1487.8813436611977,1.5010076589582688,General Hydroponics MaxiGro,1.225459976987092,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,7.0,1253.5069172408002,1.4268919020768218,General Hydroponics MaxiGro,1.1696649932522865,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.565727452770739,1200.662681002395,1.4750994427533437,General Hydroponics MaxiGro,1.122656250813234,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,7.0,1647.6942173755924,0.32946742563552645,General Hydroponics MaxiGro,1.1942609296998457,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.076202018177488,1666.5647176068626,1.5563280537462145,General Hydroponics MaxiGro,1.0573877631238824,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,5.932058252962454,1719.9553123406092,0.29079606590542495,General Hydroponics MaxiGro,1.2219302337200435,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,5.879645430534643,1494.0073947374017,0.5837071448604704,General Hydroponics MaxiGro,1.207775991999108,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.796532066596968,1406.0882547802112,1.7520044189319932,General Hydroponics MaxiGro,1.141554470814956,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.383931361974858,1301.361732414206,0.4470748036389948,General Hydroponics MaxiGro,1.1701593728076156,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,7.0,1448.8437481938981,0.5617636630592929,General Hydroponics MaxiGro,1.2784002779310748,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.689033006223172,1470.7905844286302,1.689983479028654,General Hydroponics MaxiGro,1.0621196695414774,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.069073967862016,1402.3479882493534,1.0140900812992746,General Hydroponics MaxiGro,1.3291273839015878,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,7.0,1320.693694285595,1.5404193394528316,General Hydroponics MaxiGro,1.3831622284658387,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.075279102597522,1341.6712459269502,0.17061381220217284,General Hydroponics MaxiGro,1.1161107325974262,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.266891748731284,1540.7672006945863,0.2122855981285836,General Hydroponics MaxiGro,1.2415272579113275,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.237824517594463,983.2398822625719,1.1698814063439391,General Hydroponics MaxiGro,1.1894181242502302,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.852407797965113,1357.6746316726726,1.1932311235954975,General Hydroponics MaxiGro,1.2414594350540615,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,5.927733006518481,1425.880161153011,1.737155717194499,General Hydroponics MaxiGro,1.2837764221546588,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.155146112544288,1562.246532832184,0.40708821343112545,General Hydroponics MaxiGro,1.2178174084769433,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.440754330047162,1596.9505618900114,1.960976942842108,General Hydroponics MaxiGro,1.3616300042721916,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.548750806326511,1310.0368379578222,1.0012916952565538,General Hydroponics MaxiGro,1.186640220667223,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.469995959037486,1386.9382624700183,1.1350976120419374,General Hydroponics MaxiGro,1.1197719972860456,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.382178310825114,1416.4534227925487,0.48047082257864104,General Hydroponics MaxiGro,1.2400691837085707,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.549384855114965,1277.9117483723014,0.2644781226353817,General Hydroponics MaxiGro,1.094489232451955,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.451965825009649,1667.5364984169407,1.3188279081587673,General Hydroponics MaxiGro,1.1211328068848636,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.780600747351422,1462.8233163866887,1.3059980378434983,General Hydroponics MaxiGro,1.1049936502533872,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.156845041824565,1217.284508474669,0.0,General Hydroponics MaxiGro,1.2270836515833954,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.184929189263791,1489.6160520689623,1.03400829649118,General Hydroponics MaxiGro,1.0554794735587774,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.7451211000989,1602.6518620305767,0.7822521749195065,General Hydroponics MaxiGro,1.3556307388480273,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.775862173586217,1636.9694660093387,0.25676083947896644,General Hydroponics MaxiGro,1.2356972759266927,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.314432900340874,1475.5299266456361,0.4743411777232846,General Hydroponics MaxiGro,1.2978071867297098,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.1615345083125685,1607.3082869380846,0.2906076255876218,General Hydroponics MaxiGro,1.2517994776391452,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,5.855304341625196,1449.5147911690283,0.926099331566873,General Hydroponics MaxiGro,1.3996850218688852,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,6.555924632848763,1477.1924634928469,0.35695274532076127,General Hydroponics MaxiGro,1.2957839631108268,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Spinach,6.195874439476618,1531.7080304170154,1.1903977251287041,General Hydroponics MaxiGro,1.137560171974642,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Spinach,7.0,1574.1221488449303,1.0314680987910243,General Hydroponics MaxiGro,1.091387370081859,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Bell Pepper,6.163184256514436,1550.8709987151778,0.9143234754832157,Advanced Nutrients pH Perfect,1.7339139237773147,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.468081159987211,2780.7798414142476,0.4581348787595144,Advanced Nutrients pH Perfect,1.8668840130546218,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Bell Pepper,6.265895644507056,3337.043969912371,0.2136070185421642,Advanced Nutrients pH Perfect,1.6970833089254067,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.6638968819931845,2773.2499090275114,1.646853811270738,Advanced Nutrients pH Perfect,1.8019381237698027,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.380686843673338,2146.00732930126,1.9381426592728515,Advanced Nutrients pH Perfect,1.7966235218602347,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Bell Pepper,6.882985090432032,2216.830922709063,0.8127915150162933,Advanced Nutrients pH Perfect,1.7349340172631618,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Bell Pepper,5.809582151120419,2049.4362339138697,0.0,Advanced Nutrients pH Perfect,1.7614315335949469,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.125087758814354,2152.523005756933,1.1896213023060085,Advanced Nutrients pH Perfect,1.7942604634925965,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Bell Pepper,6.193859471092818,1916.5211507314339,0.619384125272668,Advanced Nutrients pH Perfect,1.7069694302145555,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.672447494212636,2088.35324670754,1.683620378628296,Advanced Nutrients pH Perfect,1.7196051585272518,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.483963776825088,3277.0588604304444,0.20845225319290586,Advanced Nutrients pH Perfect,1.9157553191675314,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Bell Pepper,6.236777050335825,1664.528066997919,0.3445099341208331,Advanced Nutrients pH Perfect,1.824124024840673,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.624605164069475,2672.34539295022,0.4638145552275808,Advanced Nutrients pH Perfect,1.8145318055325739,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Bell Pepper,5.731217216324267,1470.2024658675828,1.6166579837868453,Advanced Nutrients pH Perfect,1.809297924652941,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.700821720673092,2157.9467847553324,0.7122455521552661,Advanced Nutrients pH Perfect,1.7118103378456866,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.997550653102732,2685.5985141886645,1.4912833798806904,Advanced Nutrients pH Perfect,1.8479360953429422,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.034314067593192,2485.1632059519125,1.1228820328431512,Advanced Nutrients pH Perfect,1.8056926420870776,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.737056804935705,1888.3095714334186,0.09107954827637302,Advanced Nutrients pH Perfect,1.7858474246633051,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.381757899474752,1961.4157247618327,0.0,Advanced Nutrients pH Perfect,1.7692899794312174,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Bell Pepper,6.515956550456664,1465.2321782672748,0.899734826810804,Advanced Nutrients pH Perfect,1.9360115900180312,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Bell Pepper,6.2353271161833375,1590.3743137857593,0.33234002099627935,Advanced Nutrients pH Perfect,1.7761847064956142,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.333840839404517,1542.9444135027284,1.804151253578131,Advanced Nutrients pH Perfect,1.937391438521145,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.189367550863227,3306.0813198193578,1.2989102833054398,Advanced Nutrients pH Perfect,1.849996669225985,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.618021492100892,2940.4848885599,0.6406375086146986,Advanced Nutrients pH Perfect,1.6780715533477806,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.851429543149572,1410.8977306346128,1.2348172724017237,Advanced Nutrients pH Perfect,1.7338507256071862,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.09768980132753,1684.8402284229533,0.8620060730875108,Advanced Nutrients pH Perfect,1.8928245691344325,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.511155692702532,2200.4597266719607,0.4780252882563833,Advanced Nutrients pH Perfect,1.6138960070667885,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.6238732743739135,2526.0451222546812,0.6192197907932534,Advanced Nutrients pH Perfect,1.9292745289518207,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Bell Pepper,6.386404233210218,3187.44216513283,2.012634133627661,Advanced Nutrients pH Perfect,1.8809956813352509,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.017007634664432,1774.1088992630896,1.3367288234940848,Advanced Nutrients pH Perfect,1.7856741084635808,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.266484329866714,1527.4380078757526,0.9945693501993359,Advanced Nutrients pH Perfect,1.8471352490827728,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.716092452656995,1776.010863964651,1.8996109723498396,Advanced Nutrients pH Perfect,1.6599929276816991,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.291112782126261,3469.516037252488,0.0,Advanced Nutrients pH Perfect,1.8787016569640893,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.912607596309109,3297.0423947732775,0.5478694823764901,Advanced Nutrients pH Perfect,1.8969569025752908,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.803399833733533,2587.531403588253,1.508590214980938,Advanced Nutrients pH Perfect,1.7848266241579493,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.7582971361853845,3375.003928934461,0.4515490502825119,Advanced Nutrients pH Perfect,1.9119244917564095,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.172129904542083,2460.446849239138,0.5560749474507554,Advanced Nutrients pH Perfect,1.7048079859770784,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.945261420095678,2282.445710599552,1.378005603158849,Advanced Nutrients pH Perfect,1.8887079776446287,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.149108556914043,3457.2480520029753,1.4638904442398752,Advanced Nutrients pH Perfect,1.766479274674058,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.986548423472389,2602.751500155233,0.5873731428626893,Advanced Nutrients pH Perfect,1.795103496914155,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.211454789094519,2911.6072983860927,0.9348083724147032,Advanced Nutrients pH Perfect,1.8521502525569853,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Bell Pepper,5.836500560025369,2240.072347923699,0.7822562544340003,Advanced Nutrients pH Perfect,1.848777482108434,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.929132135083211,1581.961219017279,0.43624381126991507,Advanced Nutrients pH Perfect,1.8021865742182224,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.648280310947644,3500.0,1.967903260840696,Advanced Nutrients pH Perfect,1.8398147265122538,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.070587297875558,2210.4445347580945,0.11525286704526566,Advanced Nutrients pH Perfect,1.9047351742453051,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Bell Pepper,5.417043290249835,2583.244648714642,1.8066058940486205,Advanced Nutrients pH Perfect,1.8538434957216452,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Bell Pepper,6.374015398418824,3271.6431199112353,1.1496309274915435,Advanced Nutrients pH Perfect,1.6386584147347514,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.228323063311118,2401.0017668043297,1.451194826285742,Advanced Nutrients pH Perfect,1.7187176409663436,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.247223550076225,2675.991492550185,1.8484446055551116,Advanced Nutrients pH Perfect,1.6093727677999294,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.4252821762599135,2809.707560088992,1.5215662218680215,Advanced Nutrients pH Perfect,1.6878469852574973,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.200084740317228,3336.4951147604716,0.0,Advanced Nutrients pH Perfect,1.7561066027655998,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.931073354437967,2370.4180837724566,1.8267202914633054,Advanced Nutrients pH Perfect,1.8289183673118725,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.403754832618157,2039.7301989283706,1.189799790849614,Advanced Nutrients pH Perfect,1.865127504411869,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Bell Pepper,6.508166631876502,3399.2414231040066,0.8316665491576202,Advanced Nutrients pH Perfect,1.813592456721835,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Bell Pepper,5.64342369583366,2469.6102099887507,0.6361061975882906,Advanced Nutrients pH Perfect,1.8041125068641877,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.620061083787238,1462.985668083838,0.8249842594225771,Advanced Nutrients pH Perfect,1.9704102078059118,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.6037047186703335,2142.288987670768,0.691730129936891,Advanced Nutrients pH Perfect,1.7399488981814837,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.761113615223105,2580.2226256004865,0.1907651559229656,Advanced Nutrients pH Perfect,1.8078117735236017,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.229041496387263,3239.2902734641416,1.0836080617609973,Advanced Nutrients pH Perfect,1.700470330620949,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.974514183777321,2566.9843788226826,0.0,Advanced Nutrients pH Perfect,1.8519358745637888,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.7774112846115635,2735.1925349579474,1.142552968087911,Advanced Nutrients pH Perfect,1.7062882954761267,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.47109312178666,1864.3098977655086,1.5908618682640674,Advanced Nutrients pH Perfect,1.8097827174707923,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Bell Pepper,6.458615812526144,2877.278995901958,0.11278853199443223,Advanced Nutrients pH Perfect,1.9432586118225297,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.594431683802723,3109.2890214574613,1.3395054844235572,Advanced Nutrients pH Perfect,1.8536413899891344,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.481680011982745,3500.0,0.0879608153037761,Advanced Nutrients pH Perfect,1.9198532627121188,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Bell Pepper,6.3767740740538725,3323.866848488919,0.16751863548198342,Advanced Nutrients pH Perfect,1.832557781678707,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.952094656554213,2499.1646699637186,0.40093156649490896,Advanced Nutrients pH Perfect,1.7162531983873468,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.057385585345558,1495.852612971026,0.8657410697152969,Advanced Nutrients pH Perfect,1.801602528229516,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.062597270794129,2841.9604975961083,0.5028024904271868,Advanced Nutrients pH Perfect,1.825607987866602,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.595876346900713,2678.425480972195,1.0952545889486833,Advanced Nutrients pH Perfect,1.801569779595776,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.6705207367428985,3273.292477513853,0.0,Advanced Nutrients pH Perfect,1.6605644333330767,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.995133518038424,3272.969715635134,1.7002159535986932,Advanced Nutrients pH Perfect,1.97311696317673,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.925095393534085,1647.0942576702942,0.20407339468298563,Advanced Nutrients pH Perfect,1.647758530573326,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.28824453412107,2921.881855185388,0.5745220122948275,Advanced Nutrients pH Perfect,1.8770750209618787,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.05453214894945,2791.246653239585,0.8769274337461664,Advanced Nutrients pH Perfect,1.8061156459935712,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.866545067703687,3175.335588677353,1.42541104782799,Advanced Nutrients pH Perfect,1.6801048602006126,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.9204990332247265,2668.8099425691235,0.49061247208348285,Advanced Nutrients pH Perfect,1.8169375051271612,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.03319989659707,3147.061814381978,1.174550695399971,Advanced Nutrients pH Perfect,1.774305487487822,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.3010609740199754,2474.8766335671307,1.1194842720196476,Advanced Nutrients pH Perfect,1.816781324467579,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.144215383852373,2987.0172514237684,1.468304718800575,Advanced Nutrients pH Perfect,1.6441213004976158,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.318413871860145,3363.715621089315,1.262028320958274,Advanced Nutrients pH Perfect,1.732491242103951,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.8354727056363,1853.633459836425,0.3157341878596483,Advanced Nutrients pH Perfect,2.0022590230569484,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.693706294653726,3084.4902938155856,1.6553379557629677,Advanced Nutrients pH Perfect,1.8462453986127128,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.363145507257569,2198.2304337073833,1.8735564229125996,Advanced Nutrients pH Perfect,2.0587908973530684,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Bell Pepper,6.3780716371008035,1780.383108225382,1.850771789921494,Advanced Nutrients pH Perfect,1.592036671775296,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.7781151854287796,3119.233638949363,0.7593191314673107,Advanced Nutrients pH Perfect,1.8415826629455343,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.281526346976577,1974.120884425035,1.4803297944782805,Advanced Nutrients pH Perfect,1.939265488828405,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.818682314605859,2440.509062979289,1.7751915611143718,Advanced Nutrients pH Perfect,1.8278799812385462,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.6553581655189165,1913.1225106078662,1.2535030411784298,Advanced Nutrients pH Perfect,1.7830180314476842,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.883299473978882,2007.915067268432,0.4213738737871465,Advanced Nutrients pH Perfect,1.8188475761018104,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.801322912082706,1725.5194081452682,1.7261963464693997,Advanced Nutrients pH Perfect,1.754872946907047,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.280004037262663,3402.9559567463134,0.04733928443614249,Advanced Nutrients pH Perfect,1.799081764661486,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.857267502921797,1485.8263900720376,1.6225559374588834,Advanced Nutrients pH Perfect,1.8536975696943743,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.637691628259008,1522.3306210589838,0.7448185429211681,Advanced Nutrients pH Perfect,1.7502038153182158,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.751079255902508,1968.3448486963136,1.4367286994990869,Advanced Nutrients pH Perfect,1.7669623936659022,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.029644479516498,2679.6880331073785,0.26356393211852625,Advanced Nutrients pH Perfect,1.9674859672914065,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.613309701189478,1156.7582019963988,0.9373246339459008,Advanced Nutrients pH Perfect,1.7087492225605965,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Bell Pepper,6.408261094649173,3487.536493904079,1.5022685094516262,Advanced Nutrients pH Perfect,1.8894910556026825,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.772781620847064,2036.2542669859226,0.7967914752900659,Advanced Nutrients pH Perfect,1.8041773657364912,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.883188961335031,1830.3551100223171,0.8309232759555452,Advanced Nutrients pH Perfect,1.9588940328444084,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.811406050150607,2208.7649794307376,1.4756747122993392,Advanced Nutrients pH Perfect,1.7495280589812885,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.9469030165963765,2980.013003392209,1.5413172182728285,Advanced Nutrients pH Perfect,1.744286942742777,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Bell Pepper,5.834568304556249,1833.313474893955,1.3571457952548749,Advanced Nutrients pH Perfect,1.7115710997011682,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.688724680940521,3147.3857904770734,0.046917400565297196,Advanced Nutrients pH Perfect,1.5822032267805313,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Bell Pepper,6.317431636417434,1402.9978577074123,0.544817701834591,Advanced Nutrients pH Perfect,1.774943963138131,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.7553370263144314,1582.1531922443148,1.5804581296879006,Advanced Nutrients pH Perfect,1.7602676747448638,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.119683108377223,3339.4435120209446,1.1879076828132118,Advanced Nutrients pH Perfect,1.7592028521898748,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.781840790988901,1892.5805719480231,0.2403250139165947,Advanced Nutrients pH Perfect,1.8644595432415176,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.625733979152514,2337.9016078952586,1.272161501807096,Advanced Nutrients pH Perfect,1.8777972363466644,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.593541549265905,3351.0014181842876,0.6128947221047261,Advanced Nutrients pH Perfect,1.622603038388787,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Down
+Bell Pepper,5.466882131862264,1898.4353257500773,0.15928359038959022,Advanced Nutrients pH Perfect,1.8359535943517868,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Bell Pepper,5.862677356806268,2210.4252681867433,1.785584736413174,Advanced Nutrients pH Perfect,1.74589931342171,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.015442345888921,3298.960751507335,1.630543620523849,Advanced Nutrients pH Perfect,1.913997511450051,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.734765650433803,2386.330034302212,1.1725770686468313,Advanced Nutrients pH Perfect,1.7722486381139766,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.531271274571202,1643.4926990031363,1.8928017999973492,Advanced Nutrients pH Perfect,1.9587327654110218,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.744699374510641,3117.607468987077,2.0373932636726932,Advanced Nutrients pH Perfect,1.838173416896251,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.112672571072914,1751.1563051785379,1.8889279944586954,Advanced Nutrients pH Perfect,1.5869162002644124,"Cal-Mag Plus, Big Bud, B-52",General Hydroponics pH Up
+Bell Pepper,5.70043932857851,2950.0371969481052,1.9387934008513132,Advanced Nutrients pH Perfect,1.8428342050660727,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.079596358553283,1544.7158629232651,1.4028580018964227,Advanced Nutrients pH Perfect,1.786320309524266,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.662810114656461,1687.381538807812,0.9673134281863852,Advanced Nutrients pH Perfect,1.8533207317899314,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.418311304872737,1487.6980008077842,0.44736966124929356,Advanced Nutrients pH Perfect,1.8289022050605404,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.757786992203489,2287.664828462521,0.9685245779148166,Advanced Nutrients pH Perfect,1.8728518643514536,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.082983136007174,3325.38380667106,0.7795660674853622,Advanced Nutrients pH Perfect,1.7582394032228121,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,6.117579931043215,2070.1955078084793,0.9043051482489112,Advanced Nutrients pH Perfect,1.7385461216308906,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Bell Pepper,5.703030889154721,1856.36854106693,0.9645979184793122,Advanced Nutrients pH Perfect,1.735532404883651,"Cal-Mag Plus, Big Bud, B-52",No pH adjustment needed
+Mint,6.215567948169908,964.2834023079706,1.4224588411889756,General Hydroponics FloraMicro,0.9646314240432994,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.899557522895121,853.1633310640517,1.06953239396632,General Hydroponics FloraMicro,1.0729519350986203,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.850241210643838,843.3594849041688,1.132696538182599,General Hydroponics FloraMicro,1.0406622034222675,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.64360366339781,663.654362222437,1.6131966052399047,General Hydroponics FloraMicro,1.0048869183305154,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Mint,5.858894805565081,772.023831096537,0.24579188945346292,General Hydroponics FloraMicro,1.0690073676336613,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.091358825407383,787.2774698286645,0.01853319985376428,General Hydroponics FloraMicro,0.9991414798140394,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.549294316296531,681.5512638663442,0.595238924347508,General Hydroponics FloraMicro,1.0015682236471624,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.906067327611608,860.1701777012635,1.0370426442265697,General Hydroponics FloraMicro,1.1505791121076085,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.221413593131056,895.5009936150886,0.0,General Hydroponics FloraMicro,0.9746048293602765,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.522966441544168,730.0533672897941,1.6106282786450692,General Hydroponics FloraMicro,1.0319789994556032,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.566339807106346,672.1566769790317,1.7418574928361958,General Hydroponics FloraMicro,0.989641314659422,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.8521539872956865,566.7113060636132,1.7291743395468526,General Hydroponics FloraMicro,1.0768648087968198,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.823183664955224,881.4442006727008,2.0238885879614723,General Hydroponics FloraMicro,1.0093158337699741,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.72273457641194,576.5743128600358,0.12394954633604607,General Hydroponics FloraMicro,1.0173801164877339,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.304050261496191,738.212700223436,0.38992895953057943,General Hydroponics FloraMicro,1.0952478156952805,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.239334849085405,548.3522223648092,1.9324866820707065,General Hydroponics FloraMicro,0.9888986537868238,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.636902123615683,670.2766700911227,0.3701665445902619,General Hydroponics FloraMicro,1.0231607474168092,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Mint,6.477337577704534,941.1235803772231,0.1547411346301633,General Hydroponics FloraMicro,0.9602809033486568,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.370527870323166,858.2329552249018,0.786643323133544,General Hydroponics FloraMicro,1.008298741881251,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.33844198464625,526.3553252574729,0.4699116980883411,General Hydroponics FloraMicro,1.0873183140778606,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.251198283068256,500.0,0.854586720111131,General Hydroponics FloraMicro,0.8563746135071882,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.312770375852391,850.4876764870063,0.4639004529438247,General Hydroponics FloraMicro,0.7611707549248821,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.841277553777241,718.7799956037297,1.008734525598741,General Hydroponics FloraMicro,1.1345147620452414,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.601290402724759,825.3897688711619,1.8762039946157925,General Hydroponics FloraMicro,0.8879187893111022,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.499769993377123,672.1126978545578,0.6181884123852728,General Hydroponics FloraMicro,0.9502327476570961,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Mint,5.720059459216397,610.8687623004694,0.7702716578941734,General Hydroponics FloraMicro,1.2002682766408592,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.134722318360395,748.0405152744879,1.8035155806895866,General Hydroponics FloraMicro,1.061279074158329,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.105429065004193,738.7538357113405,0.5624927071453462,General Hydroponics FloraMicro,0.9447956384836933,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Mint,6.386204391896298,641.7180842146204,1.039445221250453,General Hydroponics FloraMicro,1.0398048216509261,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.619365522577168,825.9037076332872,1.649785297418911,General Hydroponics FloraMicro,1.064202550153532,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.9655633208596655,746.3576016138585,0.0,General Hydroponics FloraMicro,0.9396161702506813,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.105933395589201,500.0,1.3381675166873106,General Hydroponics FloraMicro,0.8893525443886098,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.668484306383341,720.5976921552287,0.0,General Hydroponics FloraMicro,0.9718874515111914,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Mint,6.009236281543184,781.9348799631539,1.7586029371902847,General Hydroponics FloraMicro,1.0280205541050194,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.706732242004783,845.78708431374,1.6813492182694803,General Hydroponics FloraMicro,0.9023599951336203,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.206813776291504,812.9826681261028,0.13650274929040432,General Hydroponics FloraMicro,1.0339177579135483,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Mint,5.826583084118149,722.2375636911556,1.7813891676788864,General Hydroponics FloraMicro,1.0516644445935968,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.657307108772927,858.9629739745126,0.0,General Hydroponics FloraMicro,1.2833495611894272,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.342383838117941,500.0,0.4491802404901779,General Hydroponics FloraMicro,0.8697155236475255,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.278345273490592,828.6078631376904,2.054199430165715,General Hydroponics FloraMicro,0.8725480892692631,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Mint,6.012222637337515,1018.5561173942896,0.44311019159035003,General Hydroponics FloraMicro,1.0094621044669359,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.920613761368143,736.1436089720794,1.4123240062324103,General Hydroponics FloraMicro,0.9406238443598666,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.10350784715729,583.3399868113745,1.4388255160061874,General Hydroponics FloraMicro,1.1818898532200324,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.015706509436956,564.0708036257613,0.7020619643067622,General Hydroponics FloraMicro,1.032856984967732,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.444700513438186,664.5901824854766,0.7794753683184001,General Hydroponics FloraMicro,1.0684163208608954,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.455650677327478,644.8220078180688,0.7321040506204388,General Hydroponics FloraMicro,0.9720284710679628,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.4540661787908435,643.5900608099373,0.8797342569815004,General Hydroponics FloraMicro,1.136213240368508,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.840945260550386,643.8536932208774,0.4595219831232734,General Hydroponics FloraMicro,1.17707056507338,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.976188426673436,542.1554129115493,0.1349265962075879,General Hydroponics FloraMicro,0.7876052417299335,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.38038666847132,832.5852803358223,0.7924357966424667,General Hydroponics FloraMicro,1.062761121259245,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Mint,5.745360520601358,617.4985029456413,0.7713535395006585,General Hydroponics FloraMicro,0.9368562972516816,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.888689337101497,728.5212882721147,0.5407183777861863,General Hydroponics FloraMicro,1.0217579536342962,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.600425657173352,659.1206520031961,0.3268898865718302,General Hydroponics FloraMicro,0.908935491281751,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.996454150724832,631.4110263131831,1.1341233373522832,General Hydroponics FloraMicro,0.8984371745281754,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.641392680275778,802.2311935986361,1.0605340147794085,General Hydroponics FloraMicro,0.9165815151267376,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.701336005963355,518.1203969844918,2.0477618342342105,General Hydroponics FloraMicro,0.9619186967854281,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.158296689144266,841.1478119967545,0.654241972464201,General Hydroponics FloraMicro,0.7477722082512049,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.769452426774002,500.0,1.7063570579631344,General Hydroponics FloraMicro,0.8902011432580202,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.097469857778939,664.3509608433529,1.6088439989256662,General Hydroponics FloraMicro,1.040605612242808,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.827078843373349,692.1877589978733,0.5939940193178026,General Hydroponics FloraMicro,1.0486171241465874,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.297578008019835,720.2047584434973,1.3153117707462596,General Hydroponics FloraMicro,0.9139270836604662,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.157430667096248,730.800115402797,1.560529280765359,General Hydroponics FloraMicro,1.0845839624243392,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.759794566138867,548.9488172267256,0.4474520848310602,General Hydroponics FloraMicro,1.0441746736377557,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.272444459932677,802.3231047955029,1.100780496826287,General Hydroponics FloraMicro,0.979738323239568,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.717848466410118,706.2433876268271,0.8801705605118011,General Hydroponics FloraMicro,1.1165916520255224,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.931519361702125,605.4008953429332,0.5243593981572233,General Hydroponics FloraMicro,0.9472314805583041,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.114806606428516,1030.170459382885,0.6553453174889469,General Hydroponics FloraMicro,1.2105297429458313,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.809225067112328,781.7299626450988,0.9032497099744232,General Hydroponics FloraMicro,1.032604437636586,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.357787854385399,500.0,1.8775954156142889,General Hydroponics FloraMicro,0.936141417485497,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.598987424984253,630.5256859410161,1.3642828116837042,General Hydroponics FloraMicro,1.1212368117901903,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.292615230034045,599.650990202326,0.5583992311859716,General Hydroponics FloraMicro,0.9430851801327467,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.121583259029625,656.1428984842522,0.5717772251835296,General Hydroponics FloraMicro,0.8776861185590576,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.907211934828643,600.7236096660645,1.901660057335489,General Hydroponics FloraMicro,0.8829719293603225,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.549379168619295,561.2029291208606,0.24484174001591036,General Hydroponics FloraMicro,0.945160086089167,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.284341337493882,941.359530080086,0.9718679420738454,General Hydroponics FloraMicro,0.9138690420302892,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.194447806797729,728.7317196925827,1.76429218896209,General Hydroponics FloraMicro,1.1658940303431566,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.0396699568544845,662.8205683065695,2.181497786593756,General Hydroponics FloraMicro,0.84934659698096,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.41580172877591,500.0,0.7552877301852711,General Hydroponics FloraMicro,0.9487704853739028,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Mint,6.361652053903372,534.5825687033229,0.5643549021599306,General Hydroponics FloraMicro,1.0817306203738326,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.145371639244275,758.3619762616543,1.2131492451108883,General Hydroponics FloraMicro,1.0566425027987765,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.275794547685303,762.1073826498352,0.48222714023854263,General Hydroponics FloraMicro,1.085440200112072,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.622982368196043,995.7846245543471,2.0733390691666687,General Hydroponics FloraMicro,1.0480518678108224,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Mint,6.474556111987429,652.8424377025124,0.033813033141257345,General Hydroponics FloraMicro,1.2387967705524732,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.3686044746459425,665.7117973112594,1.426187320935204,General Hydroponics FloraMicro,1.053454361345619,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Mint,6.434450709667339,744.9964898476288,1.1005744773128279,General Hydroponics FloraMicro,0.9104572039074958,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.407796619350096,755.9558449214201,1.300448466219844,General Hydroponics FloraMicro,0.9523602239398484,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.243010391498898,677.1624114189033,1.619491945602716,General Hydroponics FloraMicro,0.8452198443690968,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.5452711393983485,904.3883180839708,0.4532554227229969,General Hydroponics FloraMicro,1.0302883276719301,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.398292123861989,500.0,1.5109082597261525,General Hydroponics FloraMicro,1.073823723081616,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.168702658675146,622.3144294947161,0.12649548404988634,General Hydroponics FloraMicro,0.8898966914116355,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.399627701975669,835.3368095778533,0.7954289909840655,General Hydroponics FloraMicro,0.913924319829818,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Mint,5.480495592983577,812.984039341511,0.45290555547927736,General Hydroponics FloraMicro,1.0385469775033527,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Mint,6.03574934813635,594.8078978206522,1.4738560244965926,General Hydroponics FloraMicro,1.014775590740013,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.3038973837814325,711.7133544469839,0.49474516990109574,General Hydroponics FloraMicro,1.0826702974381481,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.251745593267002,592.3056745660634,1.2776057592601662,General Hydroponics FloraMicro,0.8852840488988288,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.839908026943945,569.3808238281928,0.11563208196739638,General Hydroponics FloraMicro,1.1159596289375497,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.527510936734866,874.5096656755163,0.14416929395381062,General Hydroponics FloraMicro,0.9779886268745172,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.451781020372381,579.5040622016356,1.3559746941522668,General Hydroponics FloraMicro,1.0865156550120263,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Mint,5.3461109167860394,735.2461832611102,0.4739691005302493,General Hydroponics FloraMicro,1.0448485454196441,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Mint,5.460469471296695,528.2610914625078,0.11099183307089128,General Hydroponics FloraMicro,1.0108412473352901,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Up
+Mint,6.190297473776212,660.4124833363877,1.449499788359904,General Hydroponics FloraMicro,0.9388240360495415,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.093877486203153,607.6529744762547,1.6195645183318208,General Hydroponics FloraMicro,0.9604399626754293,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.694840564341279,691.991570335159,1.1041528199405797,General Hydroponics FloraMicro,0.9694555297558318,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Mint,6.331445523515574,668.5780908517345,0.3590919076093658,General Hydroponics FloraMicro,1.038726730043453,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.210611658302679,500.0,0.0,General Hydroponics FloraMicro,1.0957537163279767,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.893565479529936,640.2015058721981,0.525963288484051,General Hydroponics FloraMicro,1.1022512793696015,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.931526964790646,800.9869746334984,0.45924397656793114,General Hydroponics FloraMicro,1.1582116751303568,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Mint,6.579170135530055,500.0,0.007327403921916997,General Hydroponics FloraMicro,1.0560652519578775,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Mint,5.896528358193065,528.9821225232361,0.7471984432270897,General Hydroponics FloraMicro,1.137010185361037,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.650609622336157,790.9576879065157,1.450717867342471,General Hydroponics FloraMicro,1.0964601757303694,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.7793881611383,598.99620124714,1.5694596980326914,General Hydroponics FloraMicro,0.7512177942437669,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.538981418683282,563.7385168035951,1.4283924062256412,General Hydroponics FloraMicro,0.8935755288066776,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Mint,6.091090639462296,659.7450196893227,0.26665869530816105,General Hydroponics FloraMicro,1.0642301235011176,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.102174116578333,548.7941657805035,0.16433646168763605,General Hydroponics FloraMicro,1.1093122975881957,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.7746712869809675,628.6488181546098,1.565294472981461,General Hydroponics FloraMicro,1.077323998666576,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.462119314408484,574.0522634351287,2.307424233597818,General Hydroponics FloraMicro,1.0358206633870375,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.259104414401232,676.2692037345239,0.05878943063565836,General Hydroponics FloraMicro,0.8918085631286867,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.082751535643136,523.0612839833263,0.3418645279492195,General Hydroponics FloraMicro,1.0421084990219807,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.428540598010616,723.1331533862923,0.4914729273967222,General Hydroponics FloraMicro,1.1018923240089897,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.636616572650994,500.0,1.510510523330567,General Hydroponics FloraMicro,1.0665022469443974,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.715078471331115,849.6859896450105,1.4914163242941618,General Hydroponics FloraMicro,0.8865979814065041,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.792987141540601,626.8500305541554,0.4803781233569514,General Hydroponics FloraMicro,0.9449283211881425,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,5.797814509584964,684.6569561923951,1.6830390838472749,General Hydroponics FloraMicro,1.0856975536982787,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
+Mint,6.608265573606977,500.0,1.8169421891698958,General Hydroponics FloraMicro,0.8912759661255334,"Cal-Mag Plus, FloraNova Grow",General Hydroponics pH Down
+Mint,6.463701240411982,681.8906287934897,1.4821350633941226,General Hydroponics FloraMicro,0.999231100427863,"Cal-Mag Plus, FloraNova Grow",No pH adjustment needed
