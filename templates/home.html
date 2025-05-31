@@ -63,6 +63,7 @@
             color: var(--dark-green)!important;
             font-weight: 700;
         }
+        
 
         .hero-section {
             padding: 5rem 0;
@@ -201,6 +202,14 @@
 
         .fade-in {
             animation: fadeIn 0.5s ease forwards;
+        }
+        .plant-hero-animation {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 2rem;
+            margin-top: 1rem;
+            min-height: 20px;
         }
     </style>
 </head>
@@ -399,7 +408,34 @@
             </div>
         </div>
     </section>
-
+    <div class="plant-hero-animation">
+        <svg width="180" height="220" viewBox="0 0 180 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <!-- Pot -->
+            <ellipse cx="90" cy="200" rx="50" ry="20" fill="#8B4513"/>
+            <ellipse cx="90" cy="190" rx="50" ry="15" fill="#A67B5B"/>
+            <!-- Stem -->
+            <rect x="85" y="100" width="10" height="90" rx="5" fill="#3CB371">
+                <animate attributeName="y" values="110;100;110" dur="2s" repeatCount="indefinite"/>
+            </rect>
+            <!-- Leaves -->
+            <ellipse cx="70" cy="120" rx="25" ry="10" fill="#2E8B57">
+                <animate attributeName="cx" values="70;75;70" dur="2s" repeatCount="indefinite"/>
+            </ellipse>
+            <ellipse cx="110" cy="130" rx="20" ry="8" fill="#2E8B57">
+                <animate attributeName="cx" values="110;105;110" dur="2s" repeatCount="indefinite"/>
+            </ellipse>
+            <ellipse cx="90" cy="110" rx="15" ry="7" fill="#3CB371">
+                <animate attributeName="cy" values="110;105;110" dur="2s" repeatCount="indefinite"/>
+            </ellipse>
+            <!-- Sparkles for effect -->
+            <circle cx="60" cy="90" r="2" fill="#E8F5E9">
+                <animate attributeName="cy" values="90;85;90" dur="2s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="120" cy="80" r="1.5" fill="#E8F5E9">
+                <animate attributeName="cy" values="80;75;80" dur="2s" repeatCount="indefinite"/>
+            </circle>
+        </svg>
+    </div>
     <section class="container mb-5" id="get-started">
         <div class="row justify-content-center">
             <div class="col-md-8 text-center">

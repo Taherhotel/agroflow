@@ -44,7 +44,25 @@
             align-items: center;
             gap: 0.5rem;
         }
+        .navbar-brand i {
+            font-size: 1.8rem;
+            color: var(--dark-green);
+            animation: rotateFlower 3s linear infinite;
+        }
 
+        @keyframes rotateFlower {
+            0% {
+                transform: rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+        .nav-link {
+            font-size: 1rem;
+            color: var(--dark-green)!important;
+            font-weight: 700;
+        }
         .card {
             border: none;
             border-radius: 20px;
@@ -58,7 +76,7 @@
 
         .card-header {
             background: linear-gradient(135deg, var(--primary-green), var(--medium-green));
-            color: white;
+            color: var(--background-brown);
             border-radius: 20px 20px 0 0 !important;
             padding: 1rem 1.5rem;
         }
@@ -113,7 +131,6 @@
         }
 
         .plant-badge {
-            background: var(--light-green);
             color: var(--dark-green);
             padding: 0.5rem 1rem;
             border-radius: 20px;
@@ -121,15 +138,12 @@
         }
 
         .fertilizer-badge {
-            background: var(--light-brown);
             color: var(--brown);
             padding: 0.5rem 1rem;
-            border-radius: 20px;
             font-weight: 500;
         }
 
         .date-badge {
-            background: var(--light-green);
             color: var(--dark-green);
             padding: 0.3rem 0.8rem;
             border-radius: 15px;
