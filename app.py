@@ -8,6 +8,10 @@ import os
 from models import db, User, SoilData
 from datetime import datetime
 from sqlalchemy import select
+from flask_sock import Sock
+import json
+import random  # For demo purposes, replace with actual sensor readings
+import time
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'your-secret-key-here'  # Change this to a secure secret key
@@ -19,6 +23,10 @@ db.init_app(app)
 login_manager = LoginManager()
 login_manager.init_app(app)
 login_manager.login_view = 'login'
+sock = Sock(app)
+
+# Store active WebSocket connections
+active_connections = set()
 
 @login_manager.user_loader
 def load_user(user_id):
@@ -391,9 +399,80 @@ def generate_summary():
 def predict_page():
     return render_template('index.html')
 
+# Global variable to store latest sensor values
+sensor_data = {
+    'ph': None,
+    'tds': None,
+    'turbidity': None
+}
+
+# Set of active WebSocket clients
+active_connections = set()
+
+@app.route('/sensors')
+@login_required
+def sensors():
+    return render_template('sensors.html')
+
+@app.route('/api/push_sensor_data', methods=['POST'])
+def push_sensor_data():
+    global sensor_data
+    try:
+        # Get data from Raspberry Pi
+        data = request.json
+        
+        # Validate and convert sensor data
+        sensor_data = {
+            'ph': float(data.get('ph', 0)),
+            'tds': float(data.get('tds', 0)),
+            'turbidity': float(data.get('turbidity', 0))
+        }
+        
+        # Log the received data
+        print(f"Received sensor data from Raspberry Pi: {sensor_data}")
+        
+        # Store in database if needed
+        try:
+            soil_data = SoilData(
+                user_id=current_user.id if current_user.is_authenticated else None,
+                plant='Auto',  # You can modify this based on your needs
+                ph=sensor_data['ph'],
+                tds=sensor_data['tds'],
+                turbidity=sensor_data['turbidity'],
+                notes='Automated sensor reading'
+            )
+            db.session.add(soil_data)
+            db.session.commit()
+        except Exception as db_error:
+            print(f"Database error: {db_error}")
+            # Continue even if database storage fails
+        
+        return jsonify({'status': 'success', 'data': sensor_data}), 200
+    except Exception as e:
+        print(f"Error processing sensor data: {str(e)}")
+        return jsonify({'error': str(e)}), 400
+
+@sock.route('/ws/sensors')
+def sensor_ws(ws):
+    active_connections.add(ws)
+    try:
+        while True:
+            # Send current sensor data or default values if None
+            data = {
+                'ph': sensor_data['ph'] if sensor_data['ph'] is not None else 0,
+                'tds': sensor_data['tds'] if sensor_data['tds'] is not None else 0,
+                'turbidity': sensor_data['turbidity'] if sensor_data['turbidity'] is not None else 0
+            }
+            ws.send(json.dumps(data))
+            time.sleep(1)  # Update every second
+    except Exception as e:
+        print(f"WebSocket error: {str(e)}")
+    finally:
+        active_connections.remove(ws)
+
 # Create database tables
 with app.app_context():
     db.create_all()
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5001)
