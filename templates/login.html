@@ -86,6 +86,8 @@
             transition: all 0.3s ease;
             border: 1px solid var(--medium-brown);
             overflow: hidden;
+            position: relative;
+            z-index: 2;
         }
 
         .card::before {
@@ -221,9 +223,150 @@
             justify-content: center;
             gap: 0.5rem;
         }
+
+        /* Leaf Animation Styles */
+        .leaf-container {
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            pointer-events: none;
+            z-index: 0;
+            overflow: hidden;
+        }
+
+        .leaf {
+            position: absolute;
+            width: 50px;
+            height: 50px;
+            background: var(--primary-green);
+            border-radius: 50% 0 50% 0;
+            opacity: 0.4;
+            animation: leafFloat 20s linear infinite;
+        }
+
+        .leaf::before {
+            content: '';
+            position: absolute;
+            width: 25px;
+            height: 25px;
+            background: var(--medium-green);
+            border-radius: 50% 0 50% 0;
+            top: 8px;
+            left: 8px;
+            opacity: 0.3;
+        }
+
+        /* Random positions for left side leaves */
+        .leaf:nth-child(1) { left: -50px; top: 7%; animation-delay: 0s; }
+        .leaf:nth-child(2) { left: -50px; top: 23%; animation-delay: 2.5s; }
+        .leaf:nth-child(3) { left: -50px; top: 41%; animation-delay: 5s; }
+        .leaf:nth-child(4) { left: -50px; top: 58%; animation-delay: 7.5s; }
+        .leaf:nth-child(5) { left: -50px; top: 76%; animation-delay: 10s; }
+        .leaf:nth-child(6) { left: -50px; top: 92%; animation-delay: 12.5s; }
+        .leaf:nth-child(7) { left: -50px; top: 15%; animation-delay: 15s; }
+        .leaf:nth-child(8) { left: -50px; top: 33%; animation-delay: 17.5s; }
+        .leaf:nth-child(9) { left: -50px; top: 49%; animation-delay: 20s; }
+        .leaf:nth-child(10) { left: -50px; top: 67%; animation-delay: 22.5s; }
+        .leaf:nth-child(11) { left: -50px; top: 84%; animation-delay: 25s; }
+        .leaf:nth-child(12) { left: -50px; top: 11%; animation-delay: 27.5s; }
+        .leaf:nth-child(13) { left: -50px; top: 29%; animation-delay: 30s; }
+        .leaf:nth-child(14) { left: -50px; top: 45%; animation-delay: 32.5s; }
+        .leaf:nth-child(15) { left: -50px; top: 63%; animation-delay: 35s; }
+
+        /* Random positions for right side leaves */
+        .leaf:nth-child(16) { right: -50px; top: 8%; animation-delay: 1.5s; transform: scaleX(-1); }
+        .leaf:nth-child(17) { right: -50px; top: 26%; animation-delay: 4s; transform: scaleX(-1); }
+        .leaf:nth-child(18) { right: -50px; top: 43%; animation-delay: 6.5s; transform: scaleX(-1); }
+        .leaf:nth-child(19) { right: -50px; top: 61%; animation-delay: 9s; transform: scaleX(-1); }
+        .leaf:nth-child(20) { right: -50px; top: 79%; animation-delay: 11.5s; transform: scaleX(-1); }
+        .leaf:nth-child(21) { right: -50px; top: 94%; animation-delay: 14s; transform: scaleX(-1); }
+        .leaf:nth-child(22) { right: -50px; top: 17%; animation-delay: 16.5s; transform: scaleX(-1); }
+        .leaf:nth-child(23) { right: -50px; top: 35%; animation-delay: 19s; transform: scaleX(-1); }
+        .leaf:nth-child(24) { right: -50px; top: 52%; animation-delay: 21.5s; transform: scaleX(-1); }
+        .leaf:nth-child(25) { right: -50px; top: 70%; animation-delay: 24s; transform: scaleX(-1); }
+        .leaf:nth-child(26) { right: -50px; top: 87%; animation-delay: 26.5s; transform: scaleX(-1); }
+        .leaf:nth-child(27) { right: -50px; top: 13%; animation-delay: 29s; transform: scaleX(-1); }
+        .leaf:nth-child(28) { right: -50px; top: 31%; animation-delay: 31.5s; transform: scaleX(-1); }
+        .leaf:nth-child(29) { right: -50px; top: 47%; animation-delay: 34s; transform: scaleX(-1); }
+        .leaf:nth-child(30) { right: -50px; top: 65%; animation-delay: 36.5s; transform: scaleX(-1); }
+
+        .leaf:nth-child(16),
+        .leaf:nth-child(17),
+        .leaf:nth-child(18),
+        .leaf:nth-child(19),
+        .leaf:nth-child(20),
+        .leaf:nth-child(21),
+        .leaf:nth-child(22),
+        .leaf:nth-child(23),
+        .leaf:nth-child(24),
+        .leaf:nth-child(25),
+        .leaf:nth-child(26),
+        .leaf:nth-child(27),
+        .leaf:nth-child(28),
+        .leaf:nth-child(29),
+        .leaf:nth-child(30) {
+            animation-name: leafFloatReverse;
+        }
+
+        @keyframes leafFloat {
+            0% {
+                transform: translateX(0) rotate(0deg);
+                opacity: 0;
+            }
+            10% {
+                opacity: 0.4;
+            }
+            90% {
+                opacity: 0.4;
+            }
+            100% {
+                transform: translateX(calc(100vw + 70px)) rotate(720deg);
+                opacity: 0;
+            }
+        }
+
+        @keyframes leafFloatReverse {
+            0% {
+                transform: translateX(0) rotate(0deg) scaleX(-1);
+                opacity: 0;
+            }
+            10% {
+                opacity: 0.4;
+            }
+            90% {
+                opacity: 0.4;
+            }
+            100% {
+                transform: translateX(calc(-100vw - 70px)) rotate(-720deg) scaleX(-1);
+                opacity: 0;
+            }
+        }
     </style>
 </head>
 <body>
+    <div class="leaf-container">
+        <div class="leaf"></div>
+        <div class="leaf"></div>
+        <div class="leaf"></div>
+        <div class="leaf"></div>
+        <div class="leaf"></div>
+        <div class="leaf"></div>
+        <div class="leaf"></div>
+        <div class="leaf"></div>
+        <div class="leaf"></div>
+        <div class="leaf"></div>
+        <div class="leaf"></div>
+        <div class="leaf"></div>
+        <div class="leaf"></div>
+        <div class="leaf"></div>
+        <div class="leaf"></div>
+        <div class="leaf"></div>
+        <div class="leaf"></div>
+        <div class="leaf"></div>
+        <div class="leaf"></div>
+    </div>
     <nav class="navbar navbar-expand-lg navbar-dark bg-success">
         <div class="container">
             <a class="navbar-brand" href="{{ url_for('home') }}">

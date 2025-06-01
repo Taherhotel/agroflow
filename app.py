@@ -70,49 +70,61 @@ def register():
         username = request.form['username']
         email = request.form['email']
         password = request.form['password']
+        confirm_password = request.form['confirm_password']
+        
+        if password != confirm_password:
+            flash('Passwords do not match', 'danger')
+            return redirect(url_for('register'))
         
         # Check if username exists
         stmt = select(User).where(User.username == username)
         if db.session.execute(stmt).first():
-            flash('Username already exists')
+            flash('Username already exists', 'danger')
             return redirect(url_for('register'))
         
         # Check if email exists
         stmt = select(User).where(User.email == email)
         if db.session.execute(stmt).first():
-            flash('Email already registered')
+            flash('Email already registered', 'danger')
             return redirect(url_for('register'))
         
         user = User(username=username, email=email)
         user.set_password(password)
         
-        db.session.add(user)
-        db.session.commit()
-        
-        # Create user's model
-        if not ensure_user_model_exists(user):
-            flash('Error creating model. Please try again.')
+        try:
+            db.session.add(user)
+            db.session.commit()
+            
+            # Create user's model
+            if not ensure_user_model_exists(user):
+                flash('Error creating model. Please try again.', 'warning')
+                return redirect(url_for('register'))
+            
+            login_user(user)
+            flash('Registration successful!', 'success')
+            return redirect(url_for('home'))
+        except Exception as e:
+            db.session.rollback()
+            flash('An error occurred during registration. Please try again.', 'danger')
             return redirect(url_for('register'))
-        
-        login_user(user)
-        return redirect(url_for('home'))
     
     return render_template('register.html')
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():
     if request.method == 'POST':
-        username = request.form['username']
+        email = request.form['email']
         password = request.form['password']
         
-        stmt = select(User).where(User.username == username)
+        stmt = select(User).where(User.email == email)
         user = db.session.execute(stmt).scalar_one_or_none()
         
         if user and user.check_password(password):
             login_user(user)
+            flash('Successfully logged in!', 'success')
             return redirect(url_for('home'))
         
-        flash('Invalid username or password')
+        flash('Invalid email or password', 'danger')
     return render_template('login.html')
 
 @app.route('/logout')
