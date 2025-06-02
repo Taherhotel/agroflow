@@ -64,6 +64,10 @@
             transition: all 0.3s ease;
             border: 1px solid var(--medium-brown);
             height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
         }
 
         .sensor-card:hover {
@@ -72,29 +76,32 @@
         }
 
         .sensor-icon {
-            font-size: 2.5rem;
+            font-size: 3rem;
             color: var(--primary-green);
             margin-bottom: 1rem;
         }
 
         .sensor-value {
-            font-size: 2rem;
+            font-size: 2.5rem;
             font-weight: 600;
             color: var(--dark-green);
             margin: 0.5rem 0;
+            transition: all 0.3s ease;
         }
 
         .sensor-unit {
-            font-size: 1rem;
+            font-size: 1.2rem;
             color: var(--medium-brown);
+            margin-bottom: 0.5rem;
         }
 
         .sensor-status {
-            font-size: 0.9rem;
-            padding: 0.25rem 0.75rem;
+            font-size: 1rem;
+            padding: 0.5rem 1rem;
             border-radius: 20px;
             display: inline-block;
             margin-top: 0.5rem;
+            transition: all 0.3s ease;
         }
 
         .status-good {
@@ -110,15 +117,6 @@
         .status-danger {
             background: #FFEBEE;
             color: #F44336;
-        }
-
-        .chart-container {
-            background: rgba(255, 255, 255, 0.9);
-            border-radius: 20px;
-            padding: 1.5rem;
-            box-shadow: 0 4px 20px rgba(139, 69, 19, 0.08);
-            margin-top: 2rem;
-            border: 1px solid var(--medium-brown);
         }
 
         .connection-status {
@@ -151,6 +149,19 @@
         @keyframes fadeIn {
             from { opacity: 0; transform: translateY(20px); }
             to { opacity: 1; transform: translateY(0); }
+        }
+
+        .sensor-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            padding: 1rem;
+        }
+
+        .last-update {
+            font-size: 0.9rem;
+            color: var(--medium-brown);
+            margin-top: 0.5rem;
         }
     </style>
 </head>
@@ -195,65 +206,35 @@
     <div class="container py-5">
         <h1 class="text-center mb-5">Real-Time Sensor Data</h1>
         
-        <div class="row g-4">
+        <div class="sensor-grid">
             <!-- pH Sensor -->
-            <div class="col-md-6 col-lg-3">
-                <div class="sensor-card fade-in">
-                    <i class="bi bi-droplet-half sensor-icon"></i>
-                    <h3>pH Level</h3>
-                    <div class="sensor-value" id="ph-value">--</div>
-                    <div class="sensor-unit">pH</div>
-                    <div class="sensor-status status-good" id="ph-status">Optimal</div>
-                </div>
+            <div class="sensor-card fade-in">
+                <i class="bi bi-droplet-half sensor-icon"></i>
+                <h3>pH Level</h3>
+                <div class="sensor-value" id="ph-value">--</div>
+                <div class="sensor-unit">pH</div>
+                <div class="sensor-status status-good" id="ph-status">Optimal</div>
+                <div class="last-update" id="ph-update">Last update: --</div>
             </div>
 
             <!-- TDS Sensor -->
-            <div class="col-md-6 col-lg-3">
-                <div class="sensor-card fade-in">
-                    <i class="bi bi-water sensor-icon"></i>
-                    <h3>TDS</h3>
-                    <div class="sensor-value" id="tds-value">--</div>
-                    <div class="sensor-unit">ppm</div>
-                    <div class="sensor-status status-good" id="tds-status">Optimal</div>
-                </div>
+            <div class="sensor-card fade-in">
+                <i class="bi bi-water sensor-icon"></i>
+                <h3>TDS</h3>
+                <div class="sensor-value" id="tds-value">--</div>
+                <div class="sensor-unit">ppm</div>
+                <div class="sensor-status status-good" id="tds-status">Optimal</div>
+                <div class="last-update" id="tds-update">Last update: --</div>
             </div>
 
-            <!-- Temperature Sensor -->
-            <div class="col-md-6 col-lg-3">
-                <div class="sensor-card fade-in">
-                    <i class="bi bi-thermometer-half sensor-icon"></i>
-                    <h3>Temperature</h3>
-                    <div class="sensor-value" id="temp-value">--</div>
-                    <div class="sensor-unit">°C</div>
-                    <div class="sensor-status status-good" id="temp-status">Optimal</div>
-                </div>
-            </div>
-
-            <!-- Humidity Sensor -->
-            <div class="col-md-6 col-lg-3">
-                <div class="sensor-card fade-in">
-                    <i class="bi bi-moisture sensor-icon"></i>
-                    <h3>Humidity</h3>
-                    <div class="sensor-value" id="humidity-value">--</div>
-                    <div class="sensor-unit">%</div>
-                    <div class="sensor-status status-good" id="humidity-status">Optimal</div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Charts -->
-        <div class="row mt-4">
-            <div class="col-md-6">
-                <div class="chart-container">
-                    <h3>pH & TDS History</h3>
-                    <canvas id="waterChart"></canvas>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="chart-container">
-                    <h3>Temperature & Humidity History</h3>
-                    <canvas id="climateChart"></canvas>
-                </div>
+            <!-- Turbidity Sensor -->
+            <div class="sensor-card fade-in">
+                <i class="bi bi-cloud-rain sensor-icon"></i>
+                <h3>Turbidity</h3>
+                <div class="sensor-value" id="turbidity-value">--</div>
+                <div class="sensor-unit">NTU</div>
+                <div class="sensor-status status-good" id="turbidity-status">Optimal</div>
+                <div class="last-update" id="turbidity-update">Last update: --</div>
             </div>
         </div>
     </div>
@@ -265,124 +246,105 @@
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script>
         // Initialize WebSocket connection
         const ws = new WebSocket('ws://' + window.location.host + '/ws/sensors');
+        let reconnectAttempts = 0;
+        const maxReconnectAttempts = 5;
+        const reconnectDelay = 3000;  // 3 seconds
         
         // Connection status handling
         const connectionStatus = document.getElementById('connection-status');
         
-        ws.onopen = function() {
-            connectionStatus.className = 'connection-status connected';
-            connectionStatus.innerHTML = '<i class="bi bi-circle-fill"></i><span>Connected</span>';
-        };
-        
-        ws.onclose = function() {
-            connectionStatus.className = 'connection-status disconnected';
-            connectionStatus.innerHTML = '<i class="bi bi-circle-fill"></i><span>Disconnected</span>';
-        };
-
-        // Initialize charts
-        const waterChart = new Chart(document.getElementById('waterChart'), {
-            type: 'line',
-            data: {
-                labels: [],
-                datasets: [{
-                    label: 'pH',
-                    data: [],
-                    borderColor: '#2E8B57',
-                    tension: 0.4
-                }, {
-                    label: 'TDS',
-                    data: [],
-                    borderColor: '#3CB371',
-                    tension: 0.4
-                }]
-            },
-            options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                scales: {
-                    y: {
-                        beginAtZero: true
-                    }
+        function connectWebSocket() {
+            ws.onopen = function() {
+                connectionStatus.className = 'connection-status connected';
+                connectionStatus.innerHTML = '<i class="bi bi-circle-fill"></i><span>Connected</span>';
+                reconnectAttempts = 0;
+            };
+            
+            ws.onclose = function() {
+                connectionStatus.className = 'connection-status disconnected';
+                connectionStatus.innerHTML = '<i class="bi bi-circle-fill"></i><span>Disconnected</span>';
+                
+                // Attempt to reconnect
+                if (reconnectAttempts < maxReconnectAttempts) {
+                    reconnectAttempts++;
+                    setTimeout(connectWebSocket, reconnectDelay);
                 }
-            }
-        });
+            };
 
-        const climateChart = new Chart(document.getElementById('climateChart'), {
-            type: 'line',
-            data: {
-                labels: [],
-                datasets: [{
-                    label: 'Temperature',
-                    data: [],
-                    borderColor: '#FF9800',
-                    tension: 0.4
-                }, {
-                    label: 'Humidity',
-                    data: [],
-                    borderColor: '#2196F3',
-                    tension: 0.4
-                }]
-            },
-            options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                scales: {
-                    y: {
-                        beginAtZero: true
-                    }
-                }
-            }
-        });
+            ws.onerror = function(error) {
+                console.error('WebSocket error:', error);
+            };
+        }
+
+        connectWebSocket();
+
+        let lastUpdate = 0;
+        const updateInterval = 1000;  // Update every second
 
         // Handle incoming sensor data
         ws.onmessage = function(event) {
+            const now = Date.now();
+            if (now - lastUpdate < updateInterval) {
+                return;  // Skip if not enough time has passed
+            }
+            lastUpdate = now;
+
             const data = JSON.parse(event.data);
+            const timestamp = new Date().toLocaleTimeString();
             
-            // Update sensor values
-            document.getElementById('ph-value').textContent = data.ph.toFixed(1);
-            document.getElementById('tds-value').textContent = data.tds.toFixed(0);
-            document.getElementById('temp-value').textContent = data.temperature.toFixed(1);
-            document.getElementById('humidity-value').textContent = data.humidity.toFixed(0);
+            // Update sensor values with smooth transitions
+            updateSensorValue('ph-value', data.ph);
+            updateSensorValue('tds-value', data.tds);
+            updateSensorValue('turbidity-value', data.turbidity);
 
             // Update status indicators
             updateStatus('ph', data.ph);
             updateStatus('tds', data.tds);
-            updateStatus('temp', data.temperature);
-            updateStatus('humidity', data.humidity);
+            updateStatus('turbidity', data.turbidity);
 
-            // Update charts
-            const timestamp = new Date().toLocaleTimeString();
-            
-            // Water chart
-            waterChart.data.labels.push(timestamp);
-            waterChart.data.datasets[0].data.push(data.ph);
-            waterChart.data.datasets[1].data.push(data.tds);
-            
-            // Climate chart
-            climateChart.data.labels.push(timestamp);
-            climateChart.data.datasets[0].data.push(data.temperature);
-            climateChart.data.datasets[1].data.push(data.humidity);
+            // Update timestamps
+            updateTimestamp('ph-update', timestamp);
+            updateTimestamp('tds-update', timestamp);
+            updateTimestamp('turbidity-update', timestamp);
 
-            // Keep only last 20 data points
-            if (waterChart.data.labels.length > 20) {
-                waterChart.data.labels.shift();
-                waterChart.data.datasets[0].data.shift();
-                waterChart.data.datasets[1].data.shift();
-                climateChart.data.labels.shift();
-                climateChart.data.datasets[0].data.shift();
-                climateChart.data.datasets[1].data.shift();
-            }
-
-            waterChart.update();
-            climateChart.update();
+            // Debug log
+            console.log('Received sensor data:', data);
         };
+
+        function updateSensorValue(elementId, value) {
+            const element = document.getElementById(elementId);
+            if (!element) {
+                console.error(`Element not found: ${elementId}`);
+                return;
+            }
+            const currentValue = parseFloat(element.textContent) || 0;
+            const targetValue = parseFloat(value) || 0;
+            
+            // Smooth transition
+            const step = (targetValue - currentValue) * 0.3;
+            const newValue = currentValue + step;
+            
+            element.textContent = newValue.toFixed(1);
+        }
+
+        function updateTimestamp(elementId, timestamp) {
+            const element = document.getElementById(elementId);
+            if (!element) {
+                console.error(`Element not found: ${elementId}`);
+                return;
+            }
+            element.textContent = `Last update: ${timestamp}`;
+        }
 
         function updateStatus(sensor, value) {
             const statusElement = document.getElementById(`${sensor}-status`);
+            if (!statusElement) {
+                console.error(`Status element not found: ${sensor}-status`);
+                return;
+            }
             let status = '';
             let className = '';
 
@@ -411,23 +373,11 @@
                         className = 'status-danger';
                     }
                     break;
-                case 'temp':
-                    if (value >= 18 && value <= 26) {
+                case 'turbidity':
+                    if (value <= 1.0) {
                         status = 'Optimal';
                         className = 'status-good';
-                    } else if (value >= 15 && value <= 30) {
-                        status = 'Acceptable';
-                        className = 'status-warning';
-                    } else {
-                        status = 'Critical';
-                        className = 'status-danger';
-                    }
-                    break;
-                case 'humidity':
-                    if (value >= 40 && value <= 60) {
-                        status = 'Optimal';
-                        className = 'status-good';
-                    } else if (value >= 30 && value <= 70) {
+                    } else if (value <= 5.0) {
                         status = 'Acceptable';
                         className = 'status-warning';
                     } else {
@@ -440,6 +390,26 @@
             statusElement.textContent = status;
             statusElement.className = `sensor-status ${className}`;
         }
+
+        // Add error handling for WebSocket
+        ws.onerror = function(error) {
+            console.error('WebSocket error:', error);
+            connectionStatus.className = 'connection-status disconnected';
+            connectionStatus.innerHTML = '<i class="bi bi-circle-fill"></i><span>Connection Error</span>';
+        };
+
+        // Add connection status handling
+        ws.onclose = function() {
+            console.log('WebSocket connection closed');
+            connectionStatus.className = 'connection-status disconnected';
+            connectionStatus.innerHTML = '<i class="bi bi-circle-fill"></i><span>Disconnected</span>';
+            
+            // Attempt to reconnect
+            if (reconnectAttempts < maxReconnectAttempts) {
+                reconnectAttempts++;
+                setTimeout(connectWebSocket, reconnectDelay);
+            }
+        };
     </script>
 </body>
 </html> 
