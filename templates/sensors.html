@@ -50,6 +50,11 @@
             color: var(--primary-green);
             animation: rotateFlower 3s linear infinite;
         }
+        .nav-link {
+            font-size: 1rem;
+            color: var(--dark-green) !important;
+            font-weight: 700;
+        }
 
         @keyframes rotateFlower {
             0% { transform: rotate(0deg); }
@@ -179,13 +184,13 @@
                 <ul class="navbar-nav ms-auto">
                     {% if current_user.is_authenticated %}
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ url_for('home') }}">Home</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" href="{{ url_for('predict_page') }}">Predict</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{ url_for('dashboard') }}">Dashboard</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('sensors') }}">Sensors</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{ url_for('logout') }}">Logout</a>
@@ -202,7 +207,6 @@
             </div>
         </div>
     </nav>
-
     <div class="container py-5">
         <h1 class="text-center mb-5">Real-Time Sensor Data</h1>
         
