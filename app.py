@@ -12,6 +12,10 @@ from flask_sock import Sock
 import json
 import random  # For demo purposes, replace with actual sensor readings
 import time
+import qrcode
+from io import BytesIO
+import base64
+import requests
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'your-secret-key-here'  # Change this to a secure secret key
@@ -469,6 +473,53 @@ def sensor_ws(ws):
         print(f"WebSocket error: {str(e)}")
     finally:
         active_connections.remove(ws)
+
+def get_ngrok_url():
+    try:
+        # Try to get the ngrok URL from the ngrok API
+        response = requests.get("http://localhost:4040/api/tunnels")
+        tunnels = response.json()["tunnels"]
+        for tunnel in tunnels:
+            if tunnel["proto"] == "https":
+                return tunnel["public_url"]
+    except:
+        # If ngrok is not running or API is not accessible
+        return None
+
+@app.route('/qr')
+def qr_code():
+    # Create QR code
+    qr = qrcode.QRCode(
+        version=1,
+        error_correction=qrcode.constants.ERROR_CORRECT_L,
+        box_size=10,
+        border=4,
+    )
+    
+    # Try to get ngrok URL first, fallback to local URL
+    ngrok_url = get_ngrok_url()
+    if ngrok_url:
+        qr.add_data(f"{ngrok_url}/info")
+    else:
+        qr.add_data(request.url_root + 'info')
+    
+    qr.make(fit=True)
+    
+    # Create an image from the QR Code
+    img = qr.make_image(fill_color="black", back_color="white")
+    
+    # Convert to base64 for embedding in HTML
+    buffered = BytesIO()
+    img.save(buffered, format="PNG")
+    img_str = base64.b64encode(buffered.getvalue()).decode()
+    
+    return render_template('qr.html', 
+                         qr_code_url=f"data:image/png;base64,{img_str}",
+                         current_url=ngrok_url if ngrok_url else request.url_root)
+
+@app.route('/info')
+def info():
+    return render_template('info.html')
 
 # Create database tables
 with app.app_context():
